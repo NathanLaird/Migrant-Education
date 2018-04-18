@@ -1,0 +1,174 @@
+,School Code,migrant score,all score,County Code,District Code,Filler,Test Year,Type Id,County Name,District Name,School Name,Zip Code,sanctuary
+0,6104566,2372.6,2388.1,1,61192,,2017,7,Alameda,Hayward Unified,Tyrrell Elementary,94540,1.0
+1,6104566,2408.2,2388.1,1,61192,,2017,7,Alameda,Hayward Unified,Tyrrell Elementary,94540,1.0
+2,6007256,2410.2,2413.1,10,62430,,2017,7,Fresno,Selma Unified,Eric White Elementary,93662,0.0
+3,6007256,2381.3,2413.1,10,62430,,2017,7,Fresno,Selma Unified,Eric White Elementary,93662,0.0
+4,6005995,2454.2,2430.9,10,73809,,2017,7,Fresno,Firebaugh-Las Deltas Unified,Arthur E. Mills Intermediate,93622,0.0
+5,6005995,2466.5,2430.9,10,73809,,2017,7,Fresno,Firebaugh-Las Deltas Unified,Arthur E. Mills Intermediate,93622,0.0
+6,6006969,2354.3,2400.5,10,75127,,2017,7,Fresno,Mendota Unified,Mccabe Elementary,93640,0.0
+7,6006969,2368.8,2400.5,10,75127,,2017,7,Fresno,Mendota Unified,Mccabe Elementary,93640,0.0
+8,6005813,2436.3,2410.2,10,75598,,2017,7,Fresno,Caruthers Unified,Caruthers Elementary,93609,0.0
+9,6005813,2377.9,2410.2,10,75598,,2017,7,Fresno,Caruthers Unified,Caruthers Elementary,93609,0.0
+10,6008270,2392.7,2405.5,13,63073,,2017,7,Imperial,Brawley Elementary,Miguel Hidalgo Elementary,92227,0.0
+11,6008270,2394.4,2405.5,13,63073,,2017,7,Imperial,Brawley Elementary,Miguel Hidalgo Elementary,92227,0.0
+12,6008288,2431.7,2427.3,13,63073,,2017,7,Imperial,Brawley Elementary,J. W. Oakley Elementary,92227,0.0
+13,6008288,2370.1,2427.3,13,63073,,2017,7,Imperial,Brawley Elementary,J. W. Oakley Elementary,92227,0.0
+14,6008304,2348.8,2378.5,13,63073,,2017,7,Imperial,Brawley Elementary,Phil D. Swing Elementary,92227,0.0
+15,6008304,2399.7,2378.5,13,63073,,2017,7,Imperial,Brawley Elementary,Phil D. Swing Elementary,92227,0.0
+16,6008361,2374.6,2357.2,13,63099,,2017,7,Imperial,Calexico Unified,Jefferson Elementary,92231,0.0
+17,6008361,2308.4,2357.2,13,63099,,2017,7,Imperial,Calexico Unified,Jefferson Elementary,92231,0.0
+18,6008379,2351.3,2376.2,13,63099,,2017,7,Imperial,Calexico Unified,Rockwood Elementary,92231,0.0
+19,6008379,2307.5,2376.2,13,63099,,2017,7,Imperial,Calexico Unified,Rockwood Elementary,92231,0.0
+20,6008502,2420.3,2438.4,13,63131,,2017,7,Imperial,Heber Elementary,Heber Elementary,92249,0.0
+21,6008502,2444.5,2438.4,13,63131,,2017,7,Imperial,Heber Elementary,Heber Elementary,92249,0.0
+22,6008510,2420.4,2439.5,13,63149,,2017,7,Imperial,Holtville Unified,Emmett S. Finley Elementary,92250,0.0
+23,6008510,2447.7,2439.5,13,63149,,2017,7,Imperial,Holtville Unified,Emmett S. Finley Elementary,92250,0.0
+24,113027,2407.9,2379.4,15,63313,,2017,7,Kern,Arvin Union,El Camino Real Elementary,93203,0.0
+25,113027,2371.3,2379.4,15,63313,,2017,7,Kern,Arvin Union,El Camino Real Elementary,93203,0.0
+26,6008833,2361.2,2355.6,15,63313,,2017,7,Kern,Arvin Union,Sierra Vista Elementary,93203,0.0
+27,6008833,2373.7,2355.6,15,63313,,2017,7,Kern,Arvin Union,Sierra Vista Elementary,93203,0.0
+28,6110464,2384.3,2396.4,15,63313,,2017,7,Kern,Arvin Union,Bear Mountain Elementary,93203,0.0
+29,6110464,2344.9,2396.4,15,63313,,2017,7,Kern,Arvin Union,Bear Mountain Elementary,93203,0.0
+30,6008940,2387.0,2396.0,15,63321,,2017,7,Kern,Bakersfield City,Fremont Elementary,93307,0.0
+31,6008940,2351.3,2396.0,15,63321,,2017,7,Kern,Bakersfield City,Fremont Elementary,93307,0.0
+32,6009013,2329.6,2377.5,15,63321,,2017,7,Kern,Bakersfield City,Jefferson Elementary,93305,0.0
+33,6009013,2329.0,2377.5,15,63321,,2017,7,Kern,Bakersfield City,Jefferson Elementary,93305,0.0
+34,6009120,2413.4,2406.6,15,63321,,2017,7,Kern,Bakersfield City,Pioneer Drive Elementary,93306,0.0
+35,6009120,2430.1,2406.6,15,63321,,2017,7,Kern,Bakersfield City,Pioneer Drive Elementary,93306,0.0
+36,6109052,2405.3,2390.5,15,63321,,2017,7,Kern,Bakersfield City,Ramon Garza Elementary,93306,0.0
+37,6109052,2418.5,2390.5,15,63321,,2017,7,Kern,Bakersfield City,Ramon Garza Elementary,93306,0.0
+38,6009369,2358.5,2386.9,15,63404,,2017,10,Kern,Delano Union Elementary,Del Vista Math And Science Academy,93215,0.0
+39,6009369,2360.8,2386.9,15,63404,,2017,10,Kern,Delano Union Elementary,Del Vista Math And Science Academy,93215,0.0
+40,106690,2362.2,2368.3,15,63461,,2017,7,Kern,Fairfax Elementary,Shirley Lane Elementary,93307,0.0
+41,106690,2319.4,2368.3,15,63461,,2017,7,Kern,Fairfax Elementary,Shirley Lane Elementary,93307,0.0
+42,129130,2378.4,2405.4,15,63461,,2017,7,Kern,Fairfax Elementary,Zephyr Lane Elementary,93307,0.0
+43,129130,2371.8,2405.4,15,63461,,2017,7,Kern,Fairfax Elementary,Zephyr Lane Elementary,93307,0.0
+44,6009500,2382.1,2346.3,15,63461,,2017,7,Kern,Fairfax Elementary,Virginia Avenue Elementary,93307,0.0
+45,6009500,2356.8,2346.3,15,63461,,2017,7,Kern,Fairfax Elementary,Virginia Avenue Elementary,93307,0.0
+46,6009674,2393.5,2361.7,15,63560,,2017,7,Kern,Lamont Elementary,Alicante Avenue Elementary,93241,0.0
+47,6009674,2355.5,2361.7,15,63560,,2017,7,Kern,Lamont Elementary,Alicante Avenue Elementary,93241,0.0
+48,6009682,2399.7,2362.6,15,63560,,2017,7,Kern,Lamont Elementary,Lamont Elementary,93241,0.0
+49,6009682,2367.7,2362.6,15,63560,,2017,7,Kern,Lamont Elementary,Lamont Elementary,93241,0.0
+50,6060420,2391.2,2384.2,15,63594,,2017,7,Kern,Lost Hills Union Elementary,Lost Hills Elementary,93249,0.0
+51,6060420,2369.2,2384.2,15,63594,,2017,7,Kern,Lost Hills Union Elementary,Lost Hills Elementary,93249,0.0
+52,6010235,2413.2,2383.5,15,63834,,2017,7,Kern,Vineland Elementary,Vineland Elementary,93307,0.0
+53,6010235,2385.6,2383.5,15,63834,,2017,7,Kern,Vineland Elementary,Vineland Elementary,93307,0.0
+54,6010243,2337.8,2389.9,15,63842,,2017,7,Kern,Wasco Union Elementary,Karl F. Clemens Elementary,93280,0.0
+55,6010243,2343.8,2389.9,15,63842,,2017,7,Kern,Wasco Union Elementary,Karl F. Clemens Elementary,93280,0.0
+56,6010979,2414.0,2399.9,19,64212,,2017,7,Los Angeles,Abc Unified,Furgeson (Venn W.) Elementary,90716,1.0
+57,6010979,2394.5,2399.9,19,64212,,2017,7,Los Angeles,Abc Unified,Furgeson (Venn W.) Elementary,90716,1.0
+58,6023964,2354.7,2354.4,20,65243,,2017,7,Madera,Madera Unified,George Washington Elementary,93638,0.0
+59,6023964,2370.7,2354.4,20,65243,,2017,7,Madera,Madera Unified,George Washington Elementary,93638,0.0
+60,6024020,2367.0,2385.2,20,65243,,2017,7,Madera,Madera Unified,Millview Elementary,93638,0.0
+61,6024020,2393.4,2385.2,20,65243,,2017,7,Madera,Madera Unified,Millview Elementary,93638,0.0
+62,6024046,2386.1,2363.1,20,65243,,2017,7,Madera,Madera Unified,Sierra Vista Elementary,93638,0.0
+63,6024046,2427.3,2363.1,20,65243,,2017,7,Madera,Madera Unified,Sierra Vista Elementary,93638,0.0
+64,6025977,2397.8,2396.4,27,65961,,2017,7,Monterey,Alisal Union,Alisal Community,93905,1.0
+65,6025985,2389.1,2339.8,27,65961,,2017,7,Monterey,Alisal Union,Bardin Elementary,93905,1.0
+66,6025985,2360.4,2339.8,27,65961,,2017,7,Monterey,Alisal Union,Bardin Elementary,93905,1.0
+67,6025993,2339.5,2332.4,27,65961,,2017,7,Monterey,Alisal Union,Fremont Elementary,93905,1.0
+68,6025993,2305.9,2332.4,27,65961,,2017,7,Monterey,Alisal Union,Fremont Elementary,93905,1.0
+69,6026009,2356.9,2386.6,27,65961,,2017,7,Monterey,Alisal Union,Jesse G. Sanchez Elementary,93905,1.0
+70,6026009,2390.8,2386.6,27,65961,,2017,7,Monterey,Alisal Union,Jesse G. Sanchez Elementary,93905,1.0
+71,6117691,2399.5,2391.6,27,65961,,2017,7,Monterey,Alisal Union,Oscar F. Loya Elementary,93905,1.0
+72,6117691,2361.1,2391.6,27,65961,,2017,7,Monterey,Alisal Union,Oscar F. Loya Elementary,93905,1.0
+73,6120273,2397.8,2359.8,27,65961,,2017,7,Monterey,Alisal Union,"Dr. Martin Luther King, Jr. Academy",93905,1.0
+74,6120273,2359.9,2359.8,27,65961,,2017,7,Monterey,Alisal Union,"Dr. Martin Luther King, Jr. Academy",93905,1.0
+75,6026116,2403.4,2379.8,27,66035,,2017,7,Monterey,Greenfield Union Elementary,Mary Chapa Academy,93927,1.0
+76,6026116,2361.4,2379.8,27,66035,,2017,7,Monterey,Greenfield Union Elementary,Mary Chapa Academy,93927,1.0
+77,6106777,2394.4,2378.3,27,66050,,2017,7,Monterey,King City Union,Del Rey Elementary,93930,1.0
+78,6106777,2341.6,2378.3,27,66050,,2017,7,Monterey,King City Union,Del Rey Elementary,93930,1.0
+79,6026561,2319.5,2378.1,27,66142,,2017,7,Monterey,Salinas City Elementary,Los Padres Elementary,93905,1.0
+80,6026561,2353.8,2378.1,27,66142,,2017,7,Monterey,Salinas City Elementary,Los Padres Elementary,93905,1.0
+81,6026595,2331.4,2371.4,27,66142,,2017,7,Monterey,Salinas City Elementary,Natividad Elementary,93906,1.0
+82,6026595,2369.7,2371.4,27,66142,,2017,7,Monterey,Salinas City Elementary,Natividad Elementary,93906,1.0
+83,6026603,2384.8,2364.3,27,66142,,2017,7,Monterey,Salinas City Elementary,Roosevelt Elementary,93901,1.0
+84,6026603,2382.0,2364.3,27,66142,,2017,7,Monterey,Salinas City Elementary,Roosevelt Elementary,93901,1.0
+85,6026611,2377.8,2362.1,27,66142,,2017,7,Monterey,Salinas City Elementary,Sherwood Elementary,93905,1.0
+86,6026611,2400.8,2362.1,27,66142,,2017,7,Monterey,Salinas City Elementary,Sherwood Elementary,93905,1.0
+87,6026660,2320.2,2372.5,27,66191,,2017,7,Monterey,Santa Rita Union Elementary,Santa Rita Elementary,93906,1.0
+88,6026660,2365.1,2372.5,27,66191,,2017,7,Monterey,Santa Rita Union Elementary,Santa Rita Elementary,93906,1.0
+89,6030365,2367.8,2337.8,30,66670,,2017,7,Orange,Santa Ana Unified,Monte Vista Elementary,92704,0.0
+90,6030365,2321.8,2337.8,30,66670,,2017,7,Orange,Santa Ana Unified,Monte Vista Elementary,92704,0.0
+91,100248,2361.1,2398.5,33,73676,,2017,7,Riverside,Coachella Valley Unified,Las Palmitas Elementary,92274,1.0
+92,100248,2390.2,2398.5,33,73676,,2017,7,Riverside,Coachella Valley Unified,Las Palmitas Elementary,92274,1.0
+93,6031694,2370.1,2434.4,33,73676,,2017,7,Riverside,Coachella Valley Unified,Valle Del Sol Elementary,92236,1.0
+94,6031694,2425.7,2434.4,33,73676,,2017,7,Riverside,Coachella Valley Unified,Valle Del Sol Elementary,92236,1.0
+95,6031728,2324.4,2399.4,33,73676,,2017,7,Riverside,Coachella Valley Unified,Valley View Elementary,92236,1.0
+96,6031728,2391.3,2399.4,33,73676,,2017,7,Riverside,Coachella Valley Unified,Valley View Elementary,92236,1.0
+97,6032254,2327.0,2396.1,33,73676,,2017,7,Riverside,Coachella Valley Unified,Mecca Elementary,92254,1.0
+98,6032254,2377.6,2396.1,33,73676,,2017,7,Riverside,Coachella Valley Unified,Mecca Elementary,92254,1.0
+99,6032361,2314.0,2367.9,33,73676,,2017,7,Riverside,Coachella Valley Unified,Oasis Elementary,92274,1.0
+100,6032361,2354.8,2367.9,33,73676,,2017,7,Riverside,Coachella Valley Unified,Oasis Elementary,92274,1.0
+101,6114789,2405.0,2384.1,33,73676,,2017,7,Riverside,Coachella Valley Unified,Saul Martinez Elementary,92254,1.0
+102,6114789,2360.1,2384.1,33,73676,,2017,7,Riverside,Coachella Valley Unified,Saul Martinez Elementary,92254,1.0
+103,6033310,2365.6,2369.7,34,67348,,2017,7,Sacramento,Galt Joint Union Elementary,Valley Oaks Elementary,95632,1.0
+104,6033310,2410.3,2369.7,34,67348,,2017,7,Sacramento,Galt Joint Union Elementary,Valley Oaks Elementary,95632,1.0
+105,115428,2463.0,2451.6,35,67470,,2017,7,San Benito,Hollister,Hollister Dual Language Academy,95023,0.0
+106,115428,2415.3,2451.6,35,67470,,2017,7,San Benito,Hollister,Hollister Dual Language Academy,95023,0.0
+107,6035034,2381.1,2394.8,35,67470,,2017,7,San Benito,Hollister,R. O. Hardin Elementary,95023,0.0
+108,6035034,2416.8,2394.8,35,67470,,2017,7,San Benito,Hollister,R. O. Hardin Elementary,95023,0.0
+109,6035042,2430.9,2436.5,35,67470,,2017,7,San Benito,Hollister,Sunnyslope Elementary,95023,0.0
+110,6035042,2448.1,2436.5,35,67470,,2017,7,San Benito,Hollister,Sunnyslope Elementary,95023,0.0
+111,6104509,2428.8,2425.2,35,67470,,2017,7,San Benito,Hollister,Calaveras Elementary,95023,0.0
+112,6104509,2416.3,2425.2,35,67470,,2017,7,San Benito,Hollister,Calaveras Elementary,95023,0.0
+113,6095202,2377.8,2465.7,35,67504,,2017,7,San Benito,North County Joint Union Elementary,Spring Grove Elementary,95023,0.0
+114,6095202,2444.5,2465.7,35,67504,,2017,7,San Benito,North County Joint Union Elementary,Spring Grove Elementary,95023,0.0
+115,6035117,2376.1,2383.2,35,75259,,2017,7,San Benito,Aromas/San Juan Unified,San Juan,95045,0.0
+116,6035117,2324.2,2383.2,35,75259,,2017,7,San Benito,Aromas/San Juan Unified,San Juan,95045,0.0
+117,131920,2419.1,2433.4,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,Maie Ellis Elementary,92028,1.0
+118,131920,2389.0,2433.4,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,Maie Ellis Elementary,92028,1.0
+119,6038285,2385.9,2414.5,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,Fallbrook Street Elementary,92028,1.0
+120,6038285,2373.2,2414.5,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,Fallbrook Street Elementary,92028,1.0
+121,6116420,2434.2,2440.6,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,William H. Frazier Elementary,92028,1.0
+122,6116420,2456.0,2440.6,37,68114,,2017,7,San Diego,Fallbrook Union Elementary,William H. Frazier Elementary,92028,1.0
+123,6040596,2376.1,2421.9,37,68452,,2017,7,San Diego,Vista Unified,Bobier Elementary,92083,1.0
+124,6040596,2390.1,2421.9,37,68452,,2017,7,San Diego,Vista Unified,Bobier Elementary,92083,1.0
+125,6042311,2357.2,2400.0,39,68593,,2017,7,San Joaquin,Manteca Unified,French Camp Elementary,95231,0.0
+126,6042311,2397.4,2400.0,39,68593,,2017,7,San Joaquin,Manteca Unified,French Camp Elementary,95231,0.0
+127,102848,2345.2,2404.8,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Sanchez (David J.) Elementary,93458,0.0
+128,102848,2385.3,2404.8,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Sanchez (David J.) Elementary,93458,0.0
+129,102863,2361.9,2369.2,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Liberty Elementary,93458,0.0
+130,102863,2378.9,2369.2,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Liberty Elementary,93458,0.0
+131,131623,2420.1,2396.7,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,"Jim�nez, Roberto And Dr. Francisco Elementary Scho",93458,0.0
+132,131623,2370.8,2396.7,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,"Jim�nez, Roberto And Dr. Francisco Elementary Scho",93458,0.0
+133,6045959,2358.0,2364.1,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Adam (William Laird) Elementary,93458,0.0
+134,6045959,2415.8,2364.1,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Adam (William Laird) Elementary,93458,0.0
+135,6045967,2350.7,2399.6,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Alvin Elementary,93454,0.0
+136,6045967,2399.6,2399.6,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Alvin Elementary,93454,0.0
+137,6046007,2402.0,2363.6,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Fairlawn Elementary,93458,0.0
+138,6046031,2322.6,2391.3,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Miller (Isaac) Elementary,93454,0.0
+139,6046031,2371.6,2391.3,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Miller (Isaac) Elementary,93454,0.0
+140,6046049,2356.5,2341.3,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Oakley (Calvin C.) Elementary,93458,0.0
+141,6046049,2330.2,2341.3,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Oakley (Calvin C.) Elementary,93458,0.0
+142,6046064,2329.2,2374.9,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Bruce (Robert) Elementary,93458,0.0
+143,6046064,2351.7,2374.9,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Bruce (Robert) Elementary,93458,0.0
+144,6109268,2383.0,2413.1,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,93458,0.0
+145,6109268,2357.8,2413.1,42,69120,,2017,7,Santa Barbara,Santa Maria-Bonita,Ontiveros (Juan Pacifico) Elementary,93458,0.0
+146,6045512,2368.4,2353.3,42,69203,,2017,7,Santa Barbara,Guadalupe Union Elementary,Mary Buren Elementary,93434,0.0
+147,6045512,2345.0,2353.3,42,69203,,2017,7,Santa Barbara,Guadalupe Union Elementary,Mary Buren Elementary,93434,0.0
+148,6049639,2329.1,2341.8,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Amesti Elementary,95076,1.0
+149,6049639,2338.2,2341.8,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Amesti Elementary,95076,1.0
+150,6049670,2392.0,2330.5,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Calabasas Elementary,95076,1.0
+151,6049670,2367.1,2330.5,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Calabasas Elementary,95076,1.0
+152,6049712,2366.9,2348.6,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Hall District Elementary,95076,1.0
+153,6049712,2374.6,2348.6,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Hall District Elementary,95076,1.0
+154,6108138,2357.6,2378.7,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Ohlone Elementary,95076,1.0
+155,6108138,2380.5,2378.7,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Ohlone Elementary,95076,1.0
+156,6117253,2348.7,2362.0,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Ann Soldo Elementary,95076,1.0
+157,6117253,2350.4,2362.0,44,69799,,2017,7,Santa Cruz,Pajaro Valley Unified,Ann Soldo Elementary,95076,1.0
+158,6052369,2356.6,2416.7,49,75358,,2017,10,Sonoma,Windsor Unified,Cali Calmecac Language Academy,95492,1.0
+159,6052369,2382.4,2416.7,49,75358,,2017,10,Sonoma,Windsor Unified,Cali Calmecac Language Academy,95492,1.0
+160,6052633,2391.6,2335.5,50,71167,,2017,7,Stanislaus,Modesto City Elementary,Bret Harte Elementary,95358,0.0
+161,6052633,2349.5,2335.5,50,71167,,2017,7,Stanislaus,Modesto City Elementary,Bret Harte Elementary,95358,0.0
+162,118513,2341.6,2380.5,50,75572,,2017,7,Stanislaus,Waterford Unified,Richard M. Moon Primary,95386,0.0
+163,118513,2340.3,2380.5,50,75572,,2017,7,Stanislaus,Waterford Unified,Richard M. Moon Primary,95386,0.0
+164,100537,2401.6,2410.8,51,71464,,2017,7,Sutter,Yuba City Unified,Andros Karperos,95993,0.0
+165,100537,2384.0,2410.8,51,71464,,2017,7,Sutter,Yuba City Unified,Andros Karperos,95993,0.0
+166,6054142,2416.9,2398.8,54,71993,,2017,7,Tulare,Lindsay Unified,Jefferson Elementary,93247,0.0
+167,6054142,2387.0,2398.8,54,71993,,2017,7,Tulare,Lindsay Unified,Jefferson Elementary,93247,0.0
+168,6054159,2428.3,2405.5,54,71993,,2017,7,Tulare,Lindsay Unified,Washington Elementary,93247,0.0
+169,6054159,2413.5,2405.5,54,71993,,2017,7,Tulare,Lindsay Unified,Washington Elementary,93247,0.0
+170,6054241,2394.6,2381.8,54,75523,,2017,7,Tulare,Porterville Unified,John J. Doyle Elementary,93257,0.0
+171,6054241,2378.2,2381.8,54,75523,,2017,7,Tulare,Porterville Unified,John J. Doyle Elementary,93257,0.0
+172,6055024,2350.5,2342.5,56,72462,,2017,7,Ventura,Hueneme Elementary,Art Haycox Elementary,93033,0.0
