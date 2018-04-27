@@ -1,0 +1,941 @@
+﻿CO,District Code,DISTRICT,Total_Budget,Total_Students,Per_Student_Spending,LEA Type
+01,61119,Alameda Unified,"104,846,431","9,061.8","11,570",Unified
+01,61127,Albany City Unified,"43,812,775","3,601.5","12,165",Unified
+01,61143,Berkeley Unified,"142,193,131","9,171.4","15,504",Unified
+01,61150,Castro Valley Unified,"91,311,843","9,023.0","10,120",Unified
+01,61168,Emery Unified,"11,020,283",644.3,"17,106",Unified
+01,61176,Fremont Unified,"334,839,657","33,781.3","9,912",Unified
+01,61192,Hayward Unified,"250,968,269","19,670.3","12,759",Unified
+01,61200,Livermore Valley Joint Unified,"132,062,790","12,722.8","10,380",Unified
+01,61218,Mountain House Elementary,"445,470",17.2,"25,914",Elementary
+01,61234,Newark Unified,"62,719,325","5,614.2","11,172",Unified
+01,61242,New Haven Unified,"126,541,102","11,341.7","11,157",Unified
+01,61259,Oakland Unified,"518,377,599","34,942.2","14,835",Unified
+01,61275,Piedmont City Unified,"39,206,881","2,605.4","15,048",Unified
+01,61291,San Leandro Unified,"91,856,111","8,222.9","11,171",Unified
+01,61309,San Lorenzo Unified,"118,360,432","10,133.2","11,680",Unified
+01,75093,Dublin Unified,"98,079,711","10,427.3","9,406",Unified
+01,75101,Pleasanton Unified,"144,696,715","14,362.4","10,075",Unified
+01,75119,Sunol Glen Unified,"3,049,646",263.9,"11,555",Unified
+02,61333,Alpine County Unified,"2,634,969",77.2,"34,145",Unified
+03,73981,Amador County Unified,"32,479,877","3,648.9","8,901",Unified
+04,61382,Bangor Union Elementary,"1,126,798",80.6,"13,980",Elementary
+04,61408,Biggs Unified,"6,598,591",573.0,"11,516",Unified
+04,61424,Chico Unified,"125,247,896","11,407.7","10,979",Unified
+04,61432,Durham Unified,"9,904,751",948.6,"10,442",Unified
+04,61440,Feather Falls Union Elementary,"374,624",12.8,"29,176",Elementary
+04,61457,Golden Feather Union Elementary,"1,550,887",95.8,"16,192",Elementary
+04,61499,Manzanita Elementary,"2,507,279",280.4,"8,941",Elementary
+04,61507,Oroville City Elementary,"26,013,535","2,249.6","11,564",Elementary
+04,61515,Oroville Union High,"25,216,310","1,943.3","12,976",High
+04,61523,Palermo Union Elementary,"12,830,586","1,184.1","10,836",Elementary
+04,61531,Paradise Unified,"35,721,800","3,165.2","11,286",Unified
+04,61549,Thermalito Union,"15,660,888","1,409.1","11,114",Elementary
+04,73379,Pioneer Union Elementary,"961,236",54.8,"17,544",Elementary
+04,75507,Gridley Unified,"20,564,653","1,916.7","10,729",Unified
+05,61556,Bret Harte Union High,"10,071,201",650.1,"15,491",High
+05,61564,Calaveras Unified,"28,090,284","2,771.9","10,134",Unified
+05,61572,Mark Twain Union Elementary,"7,117,153",797.4,"8,926",Elementary
+05,61580,Vallecito Union,"7,017,725",561.7,"12,495",Elementary
+06,61598,Colusa Unified,"13,685,702","1,400.3","9,773",Unified
+06,61606,Maxwell Unified,"3,867,560",320.8,"12,058",Unified
+06,61614,Pierce Joint Unified,"14,099,950","1,424.9","9,895",Unified
+06,61622,Williams Unified,"13,249,391","1,276.9","10,376",Unified
+07,61630,Acalanes Union High,"68,696,852","5,287.7","12,992",High
+07,61648,Antioch Unified,"178,352,819","15,915.8","11,206",Unified
+07,61655,Brentwood Union Elementary,"85,639,896","8,689.5","9,856",Elementary
+07,61663,Byron Union Elementary,"18,171,794","1,543.3","11,775",Elementary
+07,61671,Canyon Elementary,"829,369",69.3,"11,968",Elementary
+07,61697,John Swett Unified,"18,135,023","1,556.6","11,651",Unified
+07,61705,Knightsen Elementary,"5,847,715",562.6,"10,394",Elementary
+07,61713,Lafayette Elementary,"39,435,895","3,513.0","11,226",Elementary
+07,61721,Liberty Union High,"79,513,486","7,697.3","10,330",High
+07,61739,Martinez Unified,"41,368,493","3,961.9","10,442",Unified
+07,61747,Moraga Elementary,"20,902,727","1,840.1","11,360",Elementary
+07,61754,Mt. Diablo Unified,"351,521,818","30,120.0","11,671",Unified
+07,61762,Oakley Union Elementary,"48,910,143","4,838.3","10,109",Elementary
+07,61770,Orinda Union Elementary,"30,252,897","2,467.5","12,261",Elementary
+07,61788,Pittsburg Unified,"123,613,161","10,839.4","11,404",Unified
+07,61796,West Contra Costa Unified,"310,204,406","27,003.8","11,487",Unified
+07,61804,San Ramon Valley Unified,"317,360,173","31,423.9","10,099",Unified
+07,61812,Walnut Creek Elementary,"35,143,617","3,487.2","10,078",Elementary
+08,61820,Del Norte County Unified,"37,734,081","3,390.4","11,130",Unified
+09,61838,Buckeye Union Elementary,"41,257,495","4,499.9","9,169",Elementary
+09,61846,Camino Union Elementary,"4,307,367",399.5,"10,781",Elementary
+09,61853,El Dorado Union High,"69,882,466","6,285.3","11,118",High
+09,61879,Gold Oak Union Elementary,"4,210,381",456.1,"9,231",Elementary
+09,61887,Gold Trail Union Elementary,"6,215,855",653.9,"9,505",Elementary
+09,61895,Indian Diggings Elementary,"238,692",15.5,"15,360",Elementary
+09,61903,Lake Tahoe Unified,"42,763,312","3,657.2","11,693",Unified
+09,61911,Latrobe,"1,853,195",135.0,"13,731",Elementary
+09,61929,Mother Lode Union Elementary,"10,470,008","1,030.6","10,159",Elementary
+09,61945,Pioneer Union Elementary,"3,218,472",296.4,"10,858",Elementary
+09,61952,Placerville Union Elementary,"12,002,708","1,230.6","9,754",Elementary
+09,61960,Pollock Pines Elementary,"6,653,290",648.6,"10,258",Elementary
+09,61978,Rescue Union Elementary,"33,282,173","3,624.9","9,181",Elementary
+09,61986,Silver Fork Elementary,"386,219",8.0,"48,157",Elementary
+09,73783,Black Oak Mine Unified,"10,764,683","1,012.9","10,628",Unified
+10,61994,Alvina Elementary,"2,149,191",172.1,"12,491",Elementary
+10,62026,Big Creek Elementary,"1,112,364",51.1,"21,781",Elementary
+10,62042,Burrel Union Elementary,"1,416,448",111.6,"12,690",Elementary
+10,62109,Clay Joint Elementary,"2,060,903",235.3,"8,759",Elementary
+10,62117,Clovis Unified,"405,436,340","40,553.9","9,997",Unified
+10,62125,Coalinga-Huron Unified,"52,004,756","4,159.1","12,504",Unified
+10,62158,Fowler Unified,"26,433,260","2,468.6","10,708",Unified
+10,62166,Fresno Unified,"750,745,727","66,293.7","11,325",Unified
+10,62240,Kingsburg Elementary Charter,"20,396,811","2,226.0","9,163",Elementary
+10,62257,Kingsburg Joint Union High,"13,046,206","1,102.2","11,837",High
+10,62265,Kings Canyon Joint Unified,"101,973,354","9,205.5","11,077",Unified
+10,62281,Laton Joint Unified,"8,230,654",653.0,"12,604",Unified
+10,62323,Monroe Elementary,"2,213,659",168.6,"13,128",Elementary
+10,62331,Orange Center,"3,721,514",290.1,"12,829",Elementary
+10,62356,Pacific Union Elementary,"4,177,547",378.6,"11,036",Elementary
+10,62364,Parlier Unified,"36,870,886","3,232.1","11,408",Unified
+10,62372,Pine Ridge Elementary,"2,129,831",88.4,"24,093",Elementary
+10,62380,Raisin City Elementary,"3,940,107",261.4,"15,073",Elementary
+10,62414,Sanger Unified,"108,367,992","9,751.0","11,113",Unified
+10,62430,Selma Unified,"75,651,729","6,154.0","12,293",Unified
+10,62513,Washington Colony Elementary,"4,408,317",410.9,"10,729",Elementary
+10,62539,West Park Elementary,"3,840,391",356.7,"10,765",Elementary
+10,62547,Westside Elementary,"2,927,224",211.6,"13,834",Elementary
+10,73809,Firebaugh-Las Deltas Unified,"27,764,671","2,222.6","12,492",Unified
+10,73965,Central Unified,"149,141,649","14,981.8","9,955",Unified
+10,73999,Kerman Unified,"49,224,174","4,944.5","9,955",Unified
+10,75127,Mendota Unified,"32,424,075","3,157.7","10,268",Unified
+10,75234,Golden Plains Unified,"21,601,051","1,619.0","13,342",Unified
+10,75275,Sierra Unified,"15,699,987","1,219.9","12,870",Unified
+10,75408,Riverdale Joint Unified,"18,159,372","1,562.6","11,621",Unified
+10,75598,Caruthers Unified,"16,289,226","1,396.8","11,662",Unified
+10,76778,Washington Unified,"32,511,806","2,468.8","13,169",Unified
+11,62554,Capay Joint Union Elementary,"1,707,713",187.5,"9,109",Elementary
+11,62596,Lake Elementary,"1,482,607",165.4,"8,966",Elementary
+11,62638,Plaza Elementary,"1,425,752",193.4,"7,372",Elementary
+11,62646,Princeton Joint Unified,"2,142,248",157.9,"13,571",Unified
+11,62653,Stony Creek Joint Unified,"1,894,842",82.7,"22,912",Unified
+11,62661,Willows Unified,"12,172,276","1,360.9","8,944",Unified
+11,75481,Orland Joint Unified,"21,882,374","2,099.6","10,422",Unified
+11,76562,Hamilton Unified,"6,967,623",669.4,"10,409",Unified
+12,62679,Arcata Elementary,"5,920,911",475.7,"12,448",Elementary
+12,62687,Northern Humboldt Union High,"19,043,354","1,366.5","13,936",High
+12,62695,Big Lagoon Union Elementary,"491,499",15.7,"31,226",Elementary
+12,62703,Blue Lake Union Elementary,"1,808,561",159.4,"11,346",Elementary
+12,62729,Bridgeville Elementary,"573,860",20.5,"28,048",Elementary
+12,62737,Cuddeback Union Elementary,"1,335,439",127.7,"10,461",Elementary
+12,62745,Cutten Elementary,"4,924,496",594.3,"8,286",Elementary
+12,62794,Fieldbrook Elementary,"1,284,963",139.5,"9,212",Elementary
+12,62810,Fortuna Union High,"12,447,214","1,007.2","12,358",High
+12,62828,Freshwater Elementary,"2,891,900",282.3,"10,244",Elementary
+12,62836,Garfield Elementary,"684,964",65.8,"10,410",Elementary
+12,62851,Green Point Elementary,"257,134",10.4,"24,724",Elementary
+12,62885,Hydesville Elementary,"1,621,493",184.5,"8,787",Elementary
+12,62893,Jacoby Creek Elementary,"3,956,048",435.4,"9,087",Elementary
+12,62901,Klamath-Trinity Joint Unified,"17,267,055",939.2,"18,386",Unified
+12,62919,Kneeland Elementary,"485,873",25.8,"18,869",Elementary
+12,62927,Loleta Union Elementary,"1,580,426",96.4,"16,401",Elementary
+12,62935,Maple Creek Elementary,"340,486",10.2,"33,479",Elementary
+12,62950,McKinleyville Union Elementary,"10,620,901","1,085.8","9,782",Elementary
+12,62968,Orick Elementary,"445,266",16.1,"27,725",Elementary
+12,62976,Pacific Union Elementary,"4,847,576",502.6,"9,646",Elementary
+12,62984,Peninsula Union,"638,875",30.3,"21,064",Elementary
+12,63008,Rio Dell Elementary,"3,192,882",315.3,"10,126",Elementary
+12,63024,Scotia Union Elementary,"2,002,894",195.9,"10,224",Elementary
+12,63032,South Bay Union Elementary,"4,346,319",398.8,"10,898",Elementary
+12,63040,Southern Humboldt Joint Unified,"9,298,486",677.1,"13,733",Unified
+12,63057,Trinidad Union Elementary,"1,884,429",192.2,"9,807",Elementary
+12,75374,Ferndale Unified,"5,396,605",480.4,"11,233",Unified
+12,75382,Mattole Unified,"1,131,456",57.0,"19,843",Unified
+12,75515,Eureka City Schools,"38,752,714","3,513.3","11,030",Unified
+12,76802,Fortuna Elementary,"12,750,678","1,087.8","11,721",Elementary
+13,63073,Brawley Elementary,"41,230,828","3,839.7","10,738",Elementary
+13,63081,Brawley Union High,"21,317,338","1,743.6","12,226",High
+13,63099,Calexico Unified,"107,966,021","8,756.1","12,330",Unified
+13,63107,Calipatria Unified,"14,263,507","1,105.8","12,899",Unified
+13,63115,Central Union High,"43,958,640","3,900.1","11,271",High
+13,63123,El Centro Elementary,"54,692,415","4,725.5","11,574",Elementary
+13,63131,Heber Elementary,"12,689,324","1,185.8","10,701",Elementary
+13,63149,Holtville Unified,"17,606,624","1,546.6","11,384",Unified
+13,63164,Imperial Unified,"39,513,634","3,996.0","9,888",Unified
+13,63172,Magnolia Union Elementary,"1,214,945",132.0,"9,206",Elementary
+13,63180,McCabe Union Elementary,"11,210,950","1,337.7","8,381",Elementary
+13,63198,Meadows Union Elementary,"5,601,074",469.1,"11,940",Elementary
+13,63206,Mulberry Elementary,"782,873",83.4,"9,387",Elementary
+13,63214,San Pasqual Valley Unified,"13,441,256",656.4,"20,479",Unified
+13,63222,Seeley Union Elementary,"4,204,400",325.5,"12,918",Elementary
+13,63230,Westmorland Union Elementary,"4,191,352",360.7,"11,620",Elementary
+14,63248,Big Pine Unified,"3,165,496",150.7,"21,012",Unified
+14,63271,Death Valley Unified,"1,232,559",22.0,"55,975",Unified
+14,63289,Lone Pine Unified,"5,102,217",280.0,"18,223",Unified
+14,63297,Owens Valley Unified,"1,989,975",90.9,"21,897",Unified
+14,63305,Round Valley Joint Elementary,"1,398,195",131.4,"10,643",Elementary
+14,76687,Bishop Unified,"20,521,659","1,762.0","11,647",Unified
+15,63313,Arvin Union,"33,133,730","2,923.4","11,334",Elementary
+15,63321,Bakersfield City,"347,380,034","28,918.8","12,012",Elementary
+15,63339,Beardsley Elementary,"16,499,406","1,719.2","9,597",Elementary
+15,63347,Belridge Elementary,"1,103,823",35.1,"31,466",Elementary
+15,63354,Blake Elementary,"215,145",11.4,"18,872",Elementary
+15,63362,Panama-Buena Vista Union,"165,334,719","17,238.2","9,591",Elementary
+15,63370,Buttonwillow Union Elementary,"4,119,338",346.3,"11,895",Elementary
+15,63388,Caliente Union Elementary,"786,789",46.4,"16,968",Elementary
+15,63404,Delano Union Elementary,"64,312,490","5,392.4","11,927",Elementary
+15,63412,Delano Joint Union High,"52,899,011","3,954.3","13,378",High
+15,63420,Di Giorgio Elementary,"2,222,221",215.7,"10,301",Elementary
+15,63438,Edison Elementary,"10,683,553","1,009.9","10,579",Elementary
+15,63446,Elk Hills Elementary,"1,825,735",177.9,"10,262",Elementary
+15,63461,Fairfax Elementary,"28,050,692","2,575.6","10,891",Elementary
+15,63479,Fruitvale Elementary,"28,493,395","3,128.0","9,109",Elementary
+15,63487,General Shafter Elementary,"2,082,186",143.2,"14,545",Elementary
+15,63503,Greenfield Union,"92,827,980","8,995.1","10,320",Elementary
+15,63529,Kern High,"425,102,540","36,167.7","11,754",High
+15,63545,Kernville Union Elementary,"9,185,163",842.4,"10,904",Elementary
+15,63552,Lakeside Union,"13,098,878","1,300.1","10,075",Elementary
+15,63560,Lamont Elementary,"31,556,128","2,958.4","10,667",Elementary
+15,63578,Richland Union Elementary,"34,049,202","3,269.9","10,413",Elementary
+15,63586,Linns Valley-Poso Flat Union,"653,412",20.6,"31,734",Elementary
+15,63594,Lost Hills Union Elementary,"7,007,268",540.6,"12,963",Elementary
+15,63610,Maple Elementary,"2,496,526",278.6,"8,961",Elementary
+15,63628,Maricopa Unified,"4,194,854",275.2,"15,243",Unified
+15,63651,McKittrick Elementary,"4,055,007",75.9,"53,433",Elementary
+15,63669,Midway Elementary,"1,476,750",81.6,"18,109",Elementary
+15,63677,Mojave Unified,"33,233,342","2,505.9","13,262",Unified
+15,63685,Muroc Joint Unified,"19,103,327","1,779.2","10,737",Unified
+15,63693,Norris Elementary,"29,499,595","3,966.1","7,438",Elementary
+15,63719,Pond Union Elementary,"2,440,384",185.6,"13,149",Elementary
+15,63750,Rosedale Union Elementary,"52,354,880","5,400.6","9,694",Elementary
+15,63768,Semitropic Elementary,"2,501,381",214.0,"11,687",Elementary
+15,63776,Southern Kern Unified,"36,077,565","3,187.1","11,320",Unified
+15,63784,South Fork Union,"2,663,909",233.5,"11,411",Elementary
+15,63792,Standard Elementary,"28,407,305","2,883.3","9,852",Elementary
+15,63800,Taft City,"21,749,969","2,126.6","10,228",Elementary
+15,63818,Taft Union High,"25,973,811",956.7,"27,151",High
+15,63826,Tehachapi Unified,"40,022,066","4,140.0","9,667",Unified
+15,63834,Vineland Elementary,"7,261,170",673.3,"10,785",Elementary
+15,63842,Wasco Union Elementary,"36,004,472","3,488.4","10,321",Elementary
+15,63859,Wasco Union High,"19,788,568","1,714.3","11,544",High
+15,73544,Rio Bravo-Greeley Union Elementary,"8,820,173",986.7,"8,939",Elementary
+15,73742,Sierra Sands Unified,"49,827,050","4,766.6","10,453",Unified
+15,73908,McFarland Unified,"35,822,709","3,377.8","10,605",Unified
+15,75168,El Tejon Unified,"7,633,156",714.7,"10,680",Unified
+16,63875,Armona Union Elementary,"9,734,913",921.2,"10,568",Elementary
+16,63883,Central Union Elementary,"23,350,586","1,698.2","13,750",Elementary
+16,63891,Corcoran Joint Unified,"35,138,007","3,151.0","11,151",Unified
+16,63917,Hanford Elementary,"56,324,626","5,353.7","10,521",Elementary
+16,63925,Hanford Joint Union High,"38,829,235","3,553.8","10,926",High
+16,63933,Island Union Elementary,"3,383,410",382.0,"8,857",Elementary
+16,63941,Kings River-Hardwick Union Elementary,"6,740,748",782.3,"8,617",Elementary
+16,63958,Kit Carson Union Elementary,"3,604,711",357.5,"10,085",Elementary
+16,63966,Lakeside Union Elementary,"3,385,813",318.0,"10,648",Elementary
+16,63974,Lemoore Union Elementary,"28,781,601","2,899.3","9,927",Elementary
+16,63982,Lemoore Union High,"20,345,021","1,827.2","11,135",High
+16,63990,Pioneer Union Elementary,"14,168,285","1,547.9","9,153",Elementary
+16,73932,Reef-Sunset Unified,"29,042,298","2,483.1","11,696",Unified
+17,64014,Kelseyville Unified,"18,888,787","1,569.0","12,039",Unified
+17,64022,Konocti Unified,"38,964,702","3,026.7","12,874",Unified
+17,64030,Lakeport Unified,"15,694,759","1,452.5","10,805",Unified
+17,64048,Lucerne Elementary,"2,869,421",242.2,"11,847",Elementary
+17,64055,Middletown Unified,"16,690,979","1,376.3","12,127",Unified
+17,76976,Upper Lake Unified,"9,450,300",749.6,"12,607",Unified
+18,64089,Big Valley Joint Unified,"2,438,966",138.2,"17,643",Unified
+18,64105,Janesville Union Elementary,"3,205,170",317.6,"10,092",Elementary
+18,64113,Johnstonville Elementary,"1,857,484",196.1,"9,475",Elementary
+18,64139,Lassen Union High,"9,103,585",751.4,"12,116",High
+18,64162,Ravendale-Termo Elementary,"281,973",6.3,"44,900",Elementary
+18,64170,Richmond Elementary,"1,733,079",206.6,"8,388",Elementary
+18,64188,Shaffer Union Elementary,"1,964,546",170.8,"11,502",Elementary
+18,64196,Susanville Elementary,"9,352,866","1,040.5","8,989",Elementary
+18,64204,Westwood Unified,"2,590,417",159.5,"16,246",Unified
+18,75036,Fort Sage Unified,"2,114,143",120.5,"17,543",Unified
+19,64212,ABC Unified,"208,627,000","20,041.9","10,410",Unified
+19,64246,Antelope Valley Union High,"238,023,752","19,881.8","11,972",High
+19,64261,Arcadia Unified,"95,999,296","9,316.0","10,305",Unified
+19,64279,Azusa Unified,"108,129,157","8,358.0","12,937",Unified
+19,64287,Baldwin Park Unified,"155,420,559","13,107.4","11,857",Unified
+19,64295,Bassett Unified,"46,084,602","3,502.6","13,157",Unified
+19,64303,Bellflower Unified,"129,639,057","11,950.7","10,848",Unified
+19,64311,Beverly Hills Unified,"63,345,773","3,870.8","16,365",Unified
+19,64329,Bonita Unified,"95,080,384","9,859.7","9,643",Unified
+19,64337,Burbank Unified,"153,030,671","14,674.7","10,428",Unified
+19,64345,Castaic Union,"19,701,119","2,170.2","9,078",Elementary
+19,64352,Centinela Valley Union High,"80,342,817","6,025.6","13,334",High
+19,64378,Charter Oak Unified,"48,698,492","4,749.8","10,253",Unified
+19,64394,Claremont Unified,"71,182,287","6,801.9","10,465",Unified
+19,64436,Covina-Valley Unified,"133,567,544","11,578.2","11,536",Unified
+19,64444,Culver City Unified,"75,167,552","6,576.7","11,429",Unified
+19,64451,Downey Unified,"251,062,405","21,425.2","11,718",Unified
+19,64469,Duarte Unified,"41,311,746","3,285.5","12,574",Unified
+19,64477,Eastside Union Elementary,"35,563,537","3,251.6","10,937",Elementary
+19,64485,East Whittier City Elementary,"86,882,221","8,495.9","10,226",Elementary
+19,64501,El Monte City,"101,074,828","8,391.4","12,045",Elementary
+19,64519,El Monte Union High,"111,208,285","8,522.0","13,050",High
+19,64527,El Rancho Unified,"92,872,094","8,281.2","11,215",Unified
+19,64535,El Segundo Unified,"34,763,872","3,347.3","10,386",Unified
+19,64550,Garvey Elementary,"56,753,918","4,672.4","12,147",Elementary
+19,64568,Glendale Unified,"274,846,644","25,130.9","10,937",Unified
+19,64576,Glendora Unified,"73,459,648","7,298.9","10,065",Unified
+19,64584,Gorman Elementary,"1,099,290",84.3,"13,042",Elementary
+19,64592,Hawthorne,"92,073,385","7,679.3","11,990",Elementary
+19,64600,Hermosa Beach City Elementary,"12,988,639","1,327.1","9,787",Elementary
+19,64626,Hughes-Elizabeth Lakes Union Elementary,"2,020,694",188.9,"10,697",Elementary
+19,64634,Inglewood Unified,"113,440,128","9,319.4","12,172",Unified
+19,64642,Keppel Union Elementary,"29,783,841","2,530.9","11,768",Elementary
+19,64659,La Canada Unified,"43,282,599","4,037.2","10,721",Unified
+19,64667,Lancaster Elementary,"147,849,370","13,355.9","11,070",Elementary
+19,64683,Las Virgenes Unified,"108,104,810","11,041.1","9,791",Unified
+19,64691,Lawndale Elementary,"68,163,242","5,298.0","12,866",Elementary
+19,64709,Lennox,"65,575,965","5,273.4","12,435",Elementary
+19,64717,Little Lake City Elementary,"46,173,303","4,279.2","10,790",Elementary
+19,64725,Long Beach Unified,"864,892,658","72,564.0","11,919",Unified
+19,64733,Los Angeles Unified,"6,580,724,674","489,198.8","13,452",Unified
+19,64758,Los Nietos,"19,869,174","1,609.3","12,347",Elementary
+19,64766,Lowell Joint,"27,485,906","3,056.6","8,992",Elementary
+19,64774,Lynwood Unified,"157,894,000","13,734.0","11,497",Unified
+19,64790,Monrovia Unified,"65,402,093","5,362.9","12,195",Unified
+19,64808,Montebello Unified,"304,928,274","25,825.4","11,807",Unified
+19,64816,Mountain View Elementary,"81,612,851","6,742.5","12,104",Elementary
+19,64832,Newhall,"62,734,049","6,495.5","9,658",Elementary
+19,64840,Norwalk-La Mirada Unified,"202,760,763","17,544.2","11,557",Unified
+19,64857,Palmdale Elementary,"205,356,793","18,171.8","11,301",Elementary
+19,64865,Palos Verdes Peninsula Unified,"116,766,257","11,067.2","10,551",Unified
+19,64873,Paramount Unified,"168,163,074","14,777.3","11,380",Unified
+19,64881,Pasadena Unified,"214,542,416","16,246.1","13,206",Unified
+19,64907,Pomona Unified,"274,229,784","22,813.8","12,020",Unified
+19,64931,Rosemead Elementary,"29,090,527","2,475.4","11,752",Elementary
+19,64964,San Marino Unified,"40,244,849","3,013.2","13,356",Unified
+19,64980,Santa Monica-Malibu Unified,"152,661,349","10,458.7","14,597",Unified
+19,64998,Saugus Union,"93,179,918","9,577.4","9,729",Elementary
+19,65029,South Pasadena Unified,"47,061,845","4,657.0","10,106",Unified
+19,65037,South Whittier Elementary,"33,317,201","2,784.1","11,967",Elementary
+19,65045,Sulphur Springs Union,"53,460,269","5,200.7","10,279",Elementary
+19,65052,Temple City Unified,"55,969,039","5,749.7","9,734",Unified
+19,65060,Torrance Unified,"231,100,625","22,791.0","10,140",Unified
+19,65078,Valle Lindo Elementary,"12,678,220","1,068.8","11,862",Elementary
+19,65094,West Covina Unified,"105,647,502","8,626.3","12,247",Unified
+19,65102,Westside Union Elementary,"81,890,264","8,978.9","9,120",Elementary
+19,65110,Whittier City Elementary,"65,778,101","5,808.7","11,324",Elementary
+19,65128,Whittier Union High,"143,651,005","11,492.0","12,500",High
+19,65136,William S. Hart Union High,"217,232,469","21,357.6","10,171",High
+19,65151,Wilsona Elementary,"14,866,332","1,237.5","12,013",Elementary
+19,73437,Compton Unified,"259,951,413","20,884.8","12,447",Unified
+19,73445,Hacienda la Puente Unified,"209,487,451","18,122.9","11,559",Unified
+19,73452,Rowland Unified,"159,820,952","13,316.0","12,002",Unified
+19,73460,Walnut Valley Unified,"137,421,061","14,151.8","9,711",Unified
+19,75291,San Gabriel Unified,"57,534,809","5,095.8","11,291",Unified
+19,75309,Acton-Agua Dulce Unified,"14,743,877","1,036.3","14,228",Unified
+19,75333,Manhattan Beach Unified,"72,530,175","6,521.6","11,122",Unified
+19,75341,Redondo Beach Unified,"86,999,059","9,406.1","9,249",Unified
+19,75713,Alhambra Unified,"191,338,499","16,622.4","11,511",Unified
+19,76869,Wiseburn Unified,"26,412,921","2,455.2","10,758",Unified
+20,65177,Alview-Dairyland Union Elementary,"3,778,663",363.8,"10,388",Elementary
+20,65185,Bass Lake Joint Union Elementary,"7,877,282",820.8,"9,597",Elementary
+20,65193,Chowchilla Elementary,"20,315,209","2,123.2","9,568",Elementary
+20,65201,Chowchilla Union High,"11,539,320","1,008.8","11,438",High
+20,65243,Madera Unified,"208,196,277","19,012.0","10,951",Unified
+20,65276,Raymond-Knowles Union Elementary,"984,203",83.9,"11,732",Elementary
+20,75580,Golden Valley Unified,"18,073,002","1,820.1","9,930",Unified
+20,75606,Chawanakee Unified,"7,398,604",626.2,"11,815",Unified
+20,76414,Yosemite Unified,"17,788,801","1,603.6","11,093",Unified
+21,65300,Bolinas-Stinson Union,"3,719,377",77.9,"47,746",Elementary
+21,65318,Dixie Elementary,"21,885,098","1,908.0","11,470",Elementary
+21,65334,Kentfield Elementary,"16,413,388","1,209.9","13,565",Elementary
+21,65342,Laguna Joint Elementary,"300,008",16.4,"18,304",Elementary
+21,65359,Lagunitas Elementary,"3,738,179",246.6,"15,156",Elementary
+21,65367,Larkspur-Corte Madera,"18,302,102","1,492.7","12,261",Elementary
+21,65375,Lincoln Elementary,"214,036",11.1,"19,265",Elementary
+21,65391,Mill Valley Elementary,"42,143,556","3,022.7","13,942",Elementary
+21,65409,Nicasio,"927,898",41.8,"22,220",Elementary
+21,65417,Novato Unified,"82,385,545","7,337.4","11,228",Unified
+21,65425,Reed Union Elementary,"20,382,299","1,480.1","13,771",Elementary
+21,65433,Ross Elementary,"6,908,883",369.0,"18,724",Elementary
+21,65458,San Rafael City Elementary,"50,783,502","4,624.5","10,981",Elementary
+21,65466,San Rafael City High,"33,703,133","2,401.4","14,035",High
+21,65474,Sausalito Marin City,"5,142,479",144.8,"35,519",Elementary
+21,65482,Tamalpais Union High,"78,031,685","4,419.8","17,655",High
+21,65516,Union Joint Elementary,"244,879",8.2,"29,900",Elementary
+21,73361,Shoreline Unified,"12,739,100",480.7,"26,501",Unified
+21,75002,Ross Valley Elementary,"24,126,228","2,135.2","11,299",Elementary
+22,65532,Mariposa County Unified,"19,000,480","1,589.6","11,953",Unified
+23,65540,Anderson Valley Unified,"7,677,618",470.6,"16,315",Unified
+23,65565,Fort Bragg Unified,"21,187,771","1,647.6","12,860",Unified
+23,65573,Manchester Union Elementary,"652,484",40.2,"16,219",Elementary
+23,65581,Mendocino Unified,"8,152,749",474.7,"17,174",Unified
+23,65607,Round Valley Unified,"6,186,619",337.1,"18,355",Unified
+23,65615,Ukiah Unified,"66,254,001","5,554.2","11,929",Unified
+23,65623,Willits Unified,"18,094,900","1,408.2","12,850",Unified
+23,73866,Potter Valley Community Unified,"3,753,162",252.3,"14,874",Unified
+23,73916,Laytonville Unified,"4,990,404",358.7,"13,914",Unified
+23,75218,Leggett Valley Unified,"2,308,622",110.0,"20,984",Unified
+23,76349,Arena Union Elementary/Point Arena Joint Union High,"7,409,029",362.0,"20,466",Comm Admin
+24,65631,Atwater Elementary,"44,000,090","4,785.8","9,194",Elementary
+24,65649,Ballico-Cressey Elementary,"4,092,844",368.2,"11,116",Elementary
+24,65680,El Nido Elementary,"2,186,759",157.6,"13,874",Elementary
+24,65698,Hilmar Unified,"24,404,753","2,257.1","10,812",Unified
+24,65722,Le Grand Union Elementary,"4,522,449",382.7,"11,819",Elementary
+24,65730,Le Grand Union High,"6,627,570",472.5,"14,026",High
+24,65748,Livingston Union,"25,533,549","2,427.0","10,521",Elementary
+24,65755,Los Banos Unified,"106,306,703","9,887.1","10,752",Unified
+24,65763,McSwain Union Elementary,"7,611,858",827.4,"9,200",Elementary
+24,65771,Merced City Elementary,"108,026,384","10,420.1","10,367",Elementary
+24,65789,Merced Union High,"119,079,958","9,759.0","12,202",High
+24,65813,Plainsburg Union Elementary,"1,019,508",117.8,"8,658",Elementary
+24,65821,Planada Elementary,"8,948,529",763.3,"11,724",Elementary
+24,65839,Snelling-Merced Falls Union Elementary,"1,073,977",74.5,"14,418",Elementary
+24,65862,Weaver Union,"28,203,432","2,721.5","10,363",Elementary
+24,65870,Winton,"19,531,118","1,863.2","10,483",Elementary
+24,73619,Gustine Unified,"18,951,080","1,796.5","10,549",Unified
+24,73726,Merced River Union Elementary,"1,588,702",166.6,"9,535",Elementary
+24,75317,Dos Palos Oro Loma Joint Unified,"25,737,895","2,205.7","11,669",Unified
+24,75366,Delhi Unified,"32,033,957","2,511.7","12,754",Unified
+25,65896,Surprise Valley Joint Unified,"1,870,894",107.5,"17,412",Unified
+25,73585,Modoc Joint Unified,"8,240,163",791.3,"10,413",Unified
+25,73593,Tulelake Basin Joint Unified,"5,703,470",401.7,"14,199",Unified
+26,73668,Eastern Sierra Unified,"9,441,666",377.5,"25,014",Unified
+26,73692,Mammoth Unified,"13,423,899","1,137.7","11,800",Unified
+27,65961,Alisal Union,"90,981,679","8,631.0","10,541",Elementary
+27,65979,Bradley Union Elementary,"990,306",70.7,"14,005",Elementary
+27,65987,Carmel Unified,"51,362,218","2,397.1","21,427",Unified
+27,65995,Chualar Union,"3,495,301",314.7,"11,109",Elementary
+27,66027,Graves Elementary,"457,147",43.2,"10,589",Elementary
+27,66035,Greenfield Union Elementary,"37,266,865","3,363.3","11,080",Elementary
+27,66050,King City Union,"26,775,683","2,533.5","10,569",Elementary
+27,66068,South Monterey County Joint Union High,"23,846,493","2,031.5","11,739",High
+27,66076,Lagunita Elementary,"837,122",95.4,"8,772",Elementary
+27,66084,Mission Union Elementary,"1,212,034",122.3,"9,913",Elementary
+27,66092,Monterey Peninsula Unified,"110,494,128","9,191.3","12,022",Unified
+27,66134,Pacific Grove Unified,"29,987,726","1,989.4","15,074",Unified
+27,66142,Salinas City Elementary,"91,903,471","8,588.8","10,700",Elementary
+27,66159,Salinas Union High,"166,178,449","14,258.9","11,654",High
+27,66167,San Antonio Union Elementary,"1,863,753",153.2,"12,168",Elementary
+27,66175,San Ardo Union Elementary,"1,351,931",93.8,"14,414",Elementary
+27,66183,San Lucas Union Elementary,"922,196",61.7,"14,951",Elementary
+27,66191,Santa Rita Union Elementary,"30,207,947","3,340.1","9,044",Elementary
+27,66225,Spreckels Union Elementary,"8,289,157",935.4,"8,862",Elementary
+27,66233,Washington Union Elementary,"7,757,721",852.4,"9,102",Elementary
+27,73825,North Monterey County Unified,"50,848,525","4,285.5","11,865",Unified
+27,75150,Big Sur Unified,"859,738",9.9,"86,930",Unified
+27,75440,Soledad Unified,"53,345,846","4,617.9","11,552",Unified
+27,75473,Gonzales Unified,"28,041,505","2,293.5","12,226",Unified
+28,66241,Calistoga Joint Unified,"14,061,134",826.7,"17,010",Unified
+28,66258,Howell Mountain Elementary,"1,651,020",81.4,"20,293",Elementary
+28,66266,Napa Valley Unified,"180,196,699","16,098.9","11,193",Unified
+28,66282,Pope Valley Union Elementary,"1,268,750",54.8,"23,161",Elementary
+28,66290,Saint Helena Unified,"28,394,956","1,204.5","23,574",Unified
+29,66316,Chicago Park Elementary,"1,528,562",120.5,"12,689",Elementary
+29,66324,Clear Creek Elementary,"1,412,096",139.6,"10,118",Elementary
+29,66332,Grass Valley Elementary,"13,732,925","1,162.1","11,817",Elementary
+29,66340,Nevada City Elementary,"7,755,601",730.0,"10,625",Elementary
+29,66357,Nevada Joint Union High,"32,168,812","2,456.1","13,098",High
+29,66373,Pleasant Ridge Union Elementary,"11,215,045","1,120.5","10,009",Elementary
+29,66407,Union Hill Elementary,"5,880,289",633.0,"9,289",Elementary
+29,66415,Twin Ridges Elementary,"1,615,942",83.3,"19,392",Elementary
+29,76877,Penn Valley Union Elementary,"6,003,771",531.6,"11,293",Elementary
+30,66423,Anaheim Elementary,"213,787,912","17,617.5","12,135",Elementary
+30,66431,Anaheim Union High,"340,387,200","29,381.5","11,585",High
+30,66449,Brea-Olinda Unified,"54,296,640","5,682.0","9,556",Unified
+30,66456,Buena Park Elementary,"53,885,137","4,622.8","11,656",Elementary
+30,66464,Capistrano Unified,"449,005,297","46,411.0","9,675",Unified
+30,66472,Centralia Elementary,"46,649,051","4,274.0","10,915",Elementary
+30,66480,Cypress Elementary,"37,434,979","3,852.8","9,716",Elementary
+30,66498,Fountain Valley Elementary,"55,112,095","6,197.3","8,893",Elementary
+30,66506,Fullerton Elementary,"131,744,009","13,019.6","10,119",Elementary
+30,66514,Fullerton Joint Union High,"152,593,087","13,377.4","11,407",High
+30,66522,Garden Grove Unified,"462,725,778","42,816.0","10,807",Unified
+30,66530,Huntington Beach City Elementary,"64,936,776","6,675.4","9,728",Elementary
+30,66548,Huntington Beach Union High,"175,182,056","15,346.6","11,415",High
+30,66555,Laguna Beach Unified,"53,069,818","2,866.1","18,516",Unified
+30,66563,La Habra City Elementary,"49,669,235","4,547.4","10,923",Elementary
+30,66589,Magnolia Elementary,"65,037,736","6,002.6","10,835",Elementary
+30,66597,Newport-Mesa Unified,"265,939,103","20,574.9","12,925",Unified
+30,66613,Ocean View,"84,975,617","8,197.3","10,366",Elementary
+30,66621,Orange Unified,"277,892,789","25,212.3","11,022",Unified
+30,66647,Placentia-Yorba Linda Unified,"256,792,321","24,775.8","10,365",Unified
+30,66670,Santa Ana Unified,"604,082,208","48,248.8","12,520",Unified
+30,66696,Savanna Elementary,"24,492,440","2,242.9","10,920",Elementary
+30,66746,Westminster,"99,872,714","9,094.3","10,982",Elementary
+30,73635,Saddleback Valley Unified,"267,909,221","26,759.4","10,012",Unified
+30,73643,Tustin Unified,"231,175,204","23,338.4","9,905",Unified
+30,73650,Irvine Unified,"337,400,033","32,458.8","10,395",Unified
+30,73924,Los Alamitos Unified,"95,637,784","9,616.6","9,945",Unified
+31,66761,Ackerman Charter,"4,587,243",563.8,"8,136",Elementary
+31,66779,Alta-Dutch Flat Union Elementary,"1,138,512",100.9,"11,284",Elementary
+31,66787,Auburn Union Elementary,"13,611,232","1,166.1","11,673",Elementary
+31,66795,Colfax Elementary,"3,299,620",303.9,"10,857",Elementary
+31,66803,Dry Creek Joint Elementary,"60,566,577","6,546.3","9,252",Elementary
+31,66829,Eureka Union,"32,425,474","3,283.3","9,876",Elementary
+31,66837,Foresthill Union Elementary,"4,054,960",377.5,"10,743",Elementary
+31,66845,Loomis Union Elementary,"20,603,217","2,403.6","8,572",Elementary
+31,66852,Newcastle Elementary,"2,412,958",141.1,"17,107",Elementary
+31,66886,Placer Hills Union Elementary,"7,174,073",703.3,"10,201",Elementary
+31,66894,Placer Union High,"43,217,765","3,813.3","11,333",High
+31,66910,Roseville City Elementary,"96,283,173","10,201.5","9,438",Elementary
+31,66928,Roseville Joint Union High,"101,002,658","9,782.9","10,324",High
+31,66944,Tahoe-Truckee Unified,"58,083,707","3,655.4","15,890",Unified
+31,66951,Western Placer Unified,"65,996,200","6,557.6","10,064",Unified
+31,75085,Rocklin Unified,"101,145,745","11,113.6","9,101",Unified
+32,66969,Plumas Unified,"22,288,473","1,676.1","13,298",Unified
+33,66977,Alvord Unified,"214,255,373","18,315.2","11,698",Unified
+33,66985,Banning Unified,"52,591,799","4,241.7","12,399",Unified
+33,66993,Beaumont Unified,"87,606,479","9,271.6","9,449",Unified
+33,67033,Corona-Norco Unified,"549,951,177","51,214.7","10,738",Unified
+33,67041,Desert Center Unified,"1,098,046",12.6,"87,285",Unified
+33,67058,Desert Sands Unified,"306,947,483","25,238.0","12,162",Unified
+33,67082,Hemet Unified,"242,767,191","20,127.3","12,062",Unified
+33,67090,Jurupa Unified,"212,152,174","18,306.1","11,589",Unified
+33,67116,Menifee Union Elementary,"93,272,947","9,565.8","9,751",Elementary
+33,67124,Moreno Valley Unified,"376,791,147","31,417.2","11,993",Unified
+33,67157,Nuview Union,"15,912,320","1,445.0","11,012",Elementary
+33,67173,Palm Springs Unified,"274,076,161","20,820.5","13,164",Unified
+33,67181,Palo Verde Unified,"32,655,928","2,835.1","11,518",Unified
+33,67199,Perris Elementary,"57,463,541","4,759.8","12,073",Elementary
+33,67207,Perris Union High,"111,145,852","8,987.6","12,367",High
+33,67215,Riverside Unified,"465,226,574","39,642.5","11,736",Unified
+33,67231,Romoland Elementary,"37,122,705","3,670.5","10,114",Elementary
+33,67249,San Jacinto Unified,"104,947,430","9,363.5","11,208",Unified
+33,73676,Coachella Valley Unified,"245,553,640","17,583.9","13,965",Unified
+33,75176,Lake Elsinore Unified,"216,187,423","20,425.6","10,584",Unified
+33,75192,Temecula Valley Unified,"273,111,258","26,970.7","10,126",Unified
+33,75200,Murrieta Valley Unified,"217,177,874","21,863.7","9,933",Unified
+33,75242,Val Verde Unified,"208,199,034","19,195.4","10,846",Unified
+34,67280,Arcohe Union Elementary,"3,787,344",421.1,"8,995",Elementary
+34,67314,Elk Grove Unified,"644,546,891","59,683.1","10,799",Unified
+34,67322,Elverta Joint Elementary,"2,932,075",232.0,"12,636",Elementary
+34,67330,Folsom-Cordova Unified,"203,757,127","19,269.8","10,574",Unified
+34,67348,Galt Joint Union Elementary,"39,533,735","3,455.2","11,442",Elementary
+34,67355,Galt Joint Union High,"24,286,433","2,049.4","11,850",High
+34,67413,River Delta Joint Unified,"20,877,221","1,818.1","11,483",Unified
+34,67421,Robla Elementary,"25,013,839","2,073.5","12,063",Elementary
+34,67439,Sacramento City Unified,"447,208,594","38,493.5","11,618",Unified
+34,67447,San Juan Unified,"410,480,332","37,462.0","10,957",Unified
+34,73973,Center Joint Unified,"43,194,455","4,193.5","10,300",Unified
+34,75283,Natomas Unified,"98,803,603","9,303.3","10,620",Unified
+34,76505,Twin Rivers Unified,"298,543,637","24,619.2","12,126",Unified
+35,67454,Bitterwater-Tully Elementary,"378,941",30.0,"12,636",Elementary
+35,67462,Cienega Union Elementary,"301,111",22.7,"13,241",Elementary
+35,67470,Hollister,"56,489,487","5,125.9","11,020",Elementary
+35,67488,Jefferson Elementary,"218,931",9.3,"23,465",Elementary
+35,67504,North County Joint Union Elementary,"6,101,522",723.9,"8,429",Elementary
+35,67520,Panoche Elementary,"162,718",6.7,"24,323",Elementary
+35,67538,San Benito High,"30,555,664","2,841.6","10,753",High
+35,67553,Southside Elementary,"1,713,783",209.3,"8,187",Elementary
+35,67561,Tres Pinos Union Elementary,"978,003",121.0,"8,085",Elementary
+35,67579,Willow Grove Union Elementary,"411,507",16.4,"25,122",Elementary
+35,75259,Aromas/San Juan Unified,"10,564,969","1,067.8","9,894",Unified
+36,67587,Adelanto Elementary,"82,948,160","7,893.6","10,508",Elementary
+36,67595,Alta Loma Elementary,"53,919,320","5,755.0","9,369",Elementary
+36,67611,Barstow Unified,"60,878,469","5,765.2","10,560",Unified
+36,67637,Bear Valley Unified,"26,497,245","2,367.0","11,194",Unified
+36,67645,Central Elementary,"42,182,832","4,377.2","9,637",Elementary
+36,67652,Chaffey Joint Union High,"271,149,057","22,698.4","11,946",High
+36,67678,Chino Valley Unified,"263,446,798","26,824.1","9,821",Unified
+36,67686,Colton Joint Unified,"251,168,790","21,493.6","11,686",Unified
+36,67694,Cucamonga Elementary,"29,958,292","2,392.9","12,519",Elementary
+36,67702,Etiwanda Elementary,"131,575,107","13,635.9","9,649",Elementary
+36,67710,Fontana Unified,"425,581,055","36,374.5","11,700",Unified
+36,67736,Helendale Elementary,"5,866,464",618.6,"9,483",Elementary
+36,67777,Morongo Unified,"94,595,499","7,937.6","11,917",Unified
+36,67785,Mountain View Elementary,"22,878,031","2,458.6","9,305",Elementary
+36,67793,Mt. Baldy Joint Elementary,"1,138,715",98.3,"11,590",Elementary
+36,67801,Needles Unified,"12,108,408",902.9,"13,411",Unified
+36,67819,Ontario-Montclair,"245,229,815","20,853.9","11,759",Elementary
+36,67827,Oro Grande Elementary,"4,937,561",102.7,"48,063",Elementary
+36,67843,Redlands Unified,"207,025,257","20,119.2","10,290",Unified
+36,67850,Rialto Unified,"281,247,691","24,646.4","11,411",Unified
+36,67868,Rim of the World Unified,"36,435,629","3,244.0","11,232",Unified
+36,67876,San Bernardino City Unified,"612,844,761","46,754.0","13,108",Unified
+36,67892,Trona Joint Unified,"5,600,202",251.3,"22,283",Unified
+36,67918,Victor Elementary,"117,453,525","11,711.4","10,029",Elementary
+36,67934,Victor Valley Union High,"112,983,435","9,397.8","12,022",High
+36,67959,Yucaipa-Calimesa Joint Unified,"82,417,088","7,891.0","10,444",Unified
+36,73858,Baker Valley Unified,"2,698,490",121.5,"22,215",Unified
+36,73890,Silver Valley Unified,"31,393,181","1,996.2","15,726",Unified
+36,73957,Snowline Joint Unified,"78,746,482","7,129.2","11,046",Unified
+36,75044,Hesperia Unified,"216,846,466","20,394.5","10,633",Unified
+36,75051,Lucerne Valley Unified,"9,421,152",667.8,"14,108",Unified
+36,75069,Upland Unified,"113,850,489","10,642.1","10,698",Unified
+36,75077,Apple Valley Unified,"129,500,688","12,263.5","10,560",Unified
+37,67967,Alpine Union Elementary,"15,273,052","1,675.7","9,114",Elementary
+37,67983,Borrego Springs Unified,"5,828,408",379.4,"15,363",Unified
+37,67991,Cajon Valley Union,"166,082,172","15,730.3","10,558",Elementary
+37,68007,Cardiff Elementary,"9,007,616",673.7,"13,370",Elementary
+37,68023,Chula Vista Elementary,"256,840,421","22,665.6","11,332",Elementary
+37,68031,Coronado Unified,"34,481,604","2,933.4","11,755",Unified
+37,68049,Dehesa Elementary,"3,703,817",141.8,"26,113",Elementary
+37,68056,Del Mar Union Elementary,"54,721,318","4,312.6","12,689",Elementary
+37,68080,Encinitas Union Elementary,"57,757,820","5,138.4","11,241",Elementary
+37,68098,Escondido Union,"180,067,733","15,489.4","11,625",Elementary
+37,68106,Escondido Union High,"88,507,716","7,037.6","12,576",High
+37,68114,Fallbrook Union Elementary,"56,424,081","4,766.9","11,837",Elementary
+37,68122,Fallbrook Union High,"29,208,202","2,112.0","13,830",High
+37,68130,Grossmont Union High,"210,255,725","15,724.4","13,371",High
+37,68155,Jamul-Dulzura Union Elementary,"6,392,343",573.7,"11,142",Elementary
+37,68163,Julian Union Elementary,"6,041,666",288.0,"20,977",Elementary
+37,68171,Julian Union High,"2,507,213",139.1,"18,026",High
+37,68189,Lakeside Union Elementary,"51,257,271","4,848.3","10,572",Elementary
+37,68197,La Mesa-Spring Valley,"122,826,364","11,727.4","10,473",Elementary
+37,68205,Lemon Grove,"41,687,340","3,602.0","11,573",Elementary
+37,68213,Mountain Empire Unified,"20,891,898","1,476.9","14,146",Unified
+37,68221,National Elementary,"61,305,110","5,174.2","11,848",Elementary
+37,68296,Poway Unified,"345,134,074","34,749.0","9,932",Unified
+37,68304,Ramona City Unified,"52,179,647","5,260.9","9,918",Unified
+37,68312,Rancho Santa Fe Elementary,"11,451,761",605.6,"18,909",Elementary
+37,68338,San Diego Unified,"1,332,368,963","100,511.1","13,256",Unified
+37,68346,San Dieguito Union High,"133,702,168","12,321.2","10,851",High
+37,68353,San Pasqual Union Elementary,"5,310,222",536.0,"9,907",Elementary
+37,68361,Santee,"60,601,961","6,544.7","9,260",Elementary
+37,68379,San Ysidro Elementary,"53,791,247","4,580.0","11,745",Elementary
+37,68387,Solana Beach Elementary,"45,976,182","2,900.8","15,849",Elementary
+37,68395,South Bay Union,"68,423,035","5,270.6","12,982",Elementary
+37,68403,Spencer Valley Elementary,"2,764,177",30.4,"90,867",Elementary
+37,68411,Sweetwater Union High,"449,675,253","37,055.4","12,135",High
+37,68437,Vallecitos Elementary,"2,447,421",198.8,"12,309",Elementary
+37,68452,Vista Unified,"244,693,157","20,843.8","11,739",Unified
+37,73551,Carlsbad Unified,"103,147,568","10,727.6","9,615",Unified
+37,73569,Oceanside Unified,"204,844,073","17,326.3","11,823",Unified
+37,73791,San Marcos Unified,"204,399,889","20,068.1","10,185",Unified
+37,75416,Warner Unified,"4,151,317",146.9,"28,267",Unified
+37,75614,Valley Center-Pauma Unified,"45,780,222","3,831.8","11,948",Unified
+37,76851,Bonsall Unified,"23,225,968","2,249.1","10,327",Unified
+38,68478,San Francisco Unified,"616,535,632","50,753.2","12,148",Unified
+39,68486,Banta Elementary,"4,293,445",345.7,"12,419",Elementary
+39,68502,Escalon Unified,"24,430,764","2,491.4","9,806",Unified
+39,68544,Jefferson Elementary,"21,196,433","2,256.6","9,393",Elementary
+39,68569,Lincoln Unified,"86,452,894","8,672.6","9,969",Unified
+39,68577,Linden Unified,"22,486,206","2,118.7","10,613",Unified
+39,68585,Lodi Unified,"289,414,689","27,165.3","10,654",Unified
+39,68593,Manteca Unified,"218,450,665","22,157.3","9,859",Unified
+39,68619,New Hope Elementary,"2,355,079",194.2,"12,128",Elementary
+39,68627,New Jerusalem Elementary,"2,966,986",24.8,"119,540",Elementary
+39,68635,Oak View Union Elementary,"3,360,114",394.1,"8,526",Elementary
+39,68650,Ripon Unified,"27,756,658","3,058.6","9,075",Unified
+39,68676,Stockton Unified,"395,538,174","32,955.5","12,002",Unified
+39,75499,Tracy Joint Unified,"146,058,162","14,397.0","10,145",Unified
+39,76760,Lammersville Joint Unified,"39,404,469","4,425.5","8,904",Unified
+40,68700,Atascadero Unified,"45,960,899","4,433.3","10,367",Unified
+40,68726,Cayucos Elementary,"3,198,899",200.7,"15,936",Elementary
+40,68759,Lucia Mar Unified,"104,920,048","10,124.5","10,363",Unified
+40,68791,Pleasant Valley Joint Union Elementary,"1,084,920",90.1,"12,045",Elementary
+40,68809,San Luis Coastal Unified,"88,247,204","7,158.9","12,327",Unified
+40,68825,San Miguel Joint Union,"6,696,482",576.6,"11,615",Elementary
+40,68833,Shandon Joint Unified,"3,947,499",301.2,"13,105",Unified
+40,68841,Templeton Unified,"24,313,386","2,299.3","10,574",Unified
+40,75457,Paso Robles Joint Unified,"71,911,209","6,439.9","11,166",Unified
+40,75465,Coast Unified,"11,858,399",612.8,"19,352",Unified
+41,68858,Bayshore Elementary,"4,614,069",354.8,"13,004",Elementary
+41,68866,Belmont-Redwood Shores Elementary,"42,192,063","4,093.6","10,307",Elementary
+41,68874,Brisbane Elementary,"7,501,254",448.5,"16,726",Elementary
+41,68882,Burlingame Elementary,"32,615,304","3,296.6","9,894",Elementary
+41,68890,Cabrillo Unified,"33,754,718","3,141.0","10,747",Unified
+41,68908,Hillsborough City Elementary,"26,921,972","1,428.2","18,850",Elementary
+41,68916,Jefferson Elementary,"65,284,991","6,056.2","10,780",Elementary
+41,68924,Jefferson Union High,"49,844,501","4,188.4","11,901",High
+41,68932,Pacifica,"30,003,356","3,022.3","9,927",Elementary
+41,68940,La Honda-Pescadero Unified,"5,655,678",303.8,"18,615",Unified
+41,68957,Las Lomitas Elementary,"24,085,890","1,336.4","18,022",Elementary
+41,68965,Menlo Park City Elementary,"45,971,289","2,890.7","15,903",Elementary
+41,68973,Millbrae Elementary,"22,311,765","2,363.0","9,442",Elementary
+41,68981,Portola Valley Elementary,"13,833,443",605.2,"22,860",Elementary
+41,68999,Ravenswood City Elementary,"47,264,478","2,902.8","16,282",Elementary
+41,69005,Redwood City Elementary,"93,933,093","7,627.5","12,315",Elementary
+41,69013,San Bruno Park Elementary,"26,181,865","2,536.8","10,321",Elementary
+41,69021,San Carlos Elementary,"35,223,311","3,045.9","11,564",Elementary
+41,69039,San Mateo-Foster City,"117,243,618","11,550.1","10,151",Elementary
+41,69047,San Mateo Union High,"140,925,647","8,294.6","16,990",High
+41,69062,Sequoia Union High,"135,683,697","8,145.1","16,658",High
+41,69070,South San Francisco Unified,"93,224,030","8,454.1","11,027",Unified
+41,69088,Woodside Elementary,"10,599,567",417.6,"25,385",Elementary
+42,69104,Ballard Elementary,"2,128,088",121.6,"17,498",Elementary
+42,69112,Blochman Union Elementary,"2,025,999",185.7,"10,909",Elementary
+42,69120,Santa Maria-Bonita,"184,444,497","16,285.8","11,325",Elementary
+42,69138,Buellton Union Elementary,"10,463,575",639.0,"16,376",Elementary
+42,69146,Carpinteria Unified,"26,315,740","2,155.4","12,209",Unified
+42,69161,Cold Spring Elementary,"3,716,888",166.4,"22,337",Elementary
+42,69179,College Elementary,"4,544,369",188.9,"24,054",Elementary
+42,69195,Goleta Union Elementary,"47,433,265","3,430.5","13,827",Elementary
+42,69203,Guadalupe Union Elementary,"14,127,794","1,168.2","12,094",Elementary
+42,69211,Hope Elementary,"10,550,536",977.5,"10,793",Elementary
+42,69229,Lompoc Unified,"96,180,887","9,121.7","10,544",Unified
+42,69245,Los Olivos Elementary,"2,036,810",142.2,"14,329",Elementary
+42,69252,Montecito Union Elementary,"11,269,229",394.6,"28,559",Elementary
+42,69260,Orcutt Union Elementary,"42,161,735","4,294.6","9,817",Elementary
+42,69310,Santa Maria Joint Union High,"91,441,485","7,344.5","12,450",High
+42,69328,Santa Ynez Valley Union High,"10,804,075",898.9,"12,019",High
+42,69336,Solvang Elementary,"5,080,444",553.7,"9,176",Elementary
+42,69344,Vista del Mar Union,"2,267,232",94.8,"23,924",Elementary
+42,75010,Cuyama Joint Unified,"3,070,208",211.5,"14,517",Unified
+42,76786,Santa Barbara Unified,"148,349,674","13,058.4","11,360",Unified
+43,69369,Alum Rock Union Elementary,"134,701,262","10,115.6","13,316",Elementary
+43,69377,Berryessa Union Elementary,"69,711,950","7,097.0","9,823",Elementary
+43,69385,Cambrian,"34,723,312","3,428.9","10,127",Elementary
+43,69393,Campbell Union,"83,273,260","7,188.2","11,585",Elementary
+43,69401,Campbell Union High,"92,881,976","7,337.5","12,659",High
+43,69419,Cupertino Union,"185,079,707","18,249.6","10,142",Elementary
+43,69427,East Side Union High,"260,669,969","21,942.6","11,880",High
+43,69435,Evergreen Elementary,"112,413,332","11,449.4","9,818",Elementary
+43,69450,Franklin-McKinley Elementary,"93,853,553","7,696.6","12,194",Elementary
+43,69468,Fremont Union High,"142,177,460","10,463.3","13,588",High
+43,69484,Gilroy Unified,"115,739,869","10,844.1","10,673",Unified
+43,69492,Lakeside Joint,"1,665,927",82.5,"20,205",Elementary
+43,69500,Loma Prieta Joint Union Elementary,"5,971,560",486.8,"12,268",Elementary
+43,69518,Los Altos Elementary,"58,966,181","4,382.1","13,456",Elementary
+43,69526,Los Gatos Union Elementary,"36,384,461","3,154.6","11,534",Elementary
+43,69534,Los Gatos-Saratoga Joint Union High,"50,941,782","3,169.7","16,072",High
+43,69542,Luther Burbank,"6,249,157",504.7,"12,383",Elementary
+43,69575,Moreland,"52,747,830","4,626.9","11,400",Elementary
+43,69583,Morgan Hill Unified,"81,954,837","8,013.6","10,227",Unified
+43,69591,Mountain View Whisman,"65,755,265","4,941.6","13,306",Elementary
+43,69609,Mountain View-Los Altos Union High,"76,244,683","3,940.4","19,349",High
+43,69617,Mt. Pleasant Elementary,"29,178,700","2,290.3","12,740",Elementary
+43,69625,Oak Grove Elementary,"107,981,794","9,997.9","10,801",Elementary
+43,69633,Orchard Elementary,"9,072,301",870.1,"10,427",Elementary
+43,69641,Palo Alto Unified,"228,864,590","11,805.5","19,386",Unified
+43,69666,San Jose Unified,"356,525,400","29,471.3","12,097",Unified
+43,69674,Santa Clara Unified,"216,481,658","14,649.0","14,778",Unified
+43,69682,Saratoga Union Elementary,"29,940,520","1,870.6","16,006",Elementary
+43,69690,Sunnyvale,"80,634,437","6,247.5","12,907",Elementary
+43,69708,Union Elementary,"58,370,454","5,608.6","10,407",Elementary
+43,73387,Milpitas Unified,"99,010,413","10,072.3","9,830",Unified
+44,40261,Santa Cruz City Elementary/High,"77,185,262","6,259.3","12,331",Comm Admin
+44,69732,Bonny Doon Union Elementary,"1,820,953",154.6,"11,780",Elementary
+44,69757,Happy Valley Elementary,"1,320,096",117.7,"11,221",Elementary
+44,69765,Live Oak Elementary,"19,259,179","1,675.6","11,494",Elementary
+44,69773,Mountain Elementary,"1,495,691",113.4,"13,192",Elementary
+44,69781,Pacific Elementary,"1,243,371",102.1,"12,178",Elementary
+44,69799,Pajaro Valley Unified,"223,699,520","17,310.7","12,923",Unified
+44,69807,San Lorenzo Valley Unified,"23,760,466","2,219.5","10,706",Unified
+44,69849,Soquel Union Elementary,"18,588,434","1,884.0","9,867",Elementary
+44,75432,Scotts Valley Unified,"24,870,148","2,395.0","10,384",Unified
+45,69856,Anderson Union High,"17,661,354","1,479.3","11,939",High
+45,69872,Bella Vista Elementary,"3,631,269",347.3,"10,457",Elementary
+45,69880,Black Butte Union Elementary,"2,428,750",191.4,"12,689",Elementary
+45,69914,Cascade Union Elementary,"12,907,348","1,022.9","12,619",Elementary
+45,69922,Castle Rock Union Elementary,"728,296",46.1,"15,802",Elementary
+45,69948,Columbia Elementary,"7,696,822",762.5,"10,095",Elementary
+45,69955,Cottonwood Union Elementary,"8,959,388",837.4,"10,699",Elementary
+45,69971,Enterprise Elementary,"38,664,616","3,596.0","10,752",Elementary
+45,69989,Fall River Joint Unified,"14,205,491","1,122.2","12,659",Unified
+45,69997,French Gulch-Whiskeytown Elementary,"399,809",27.1,"14,775",Elementary
+45,70003,Grant Elementary,"6,474,111",619.7,"10,447",Elementary
+45,70011,Happy Valley Union Elementary,"5,172,189",470.2,"11,001",Elementary
+45,70029,"Igo, Ono, Platina Union Elementary","758,805",38.9,"19,512",Elementary
+45,70037,Indian Springs Elementary,"568,237",10.9,"51,941",Elementary
+45,70045,Junction Elementary,"2,573,802",261.1,"9,856",Elementary
+45,70052,Millville Elementary,"2,560,632",242.6,"10,557",Elementary
+45,70078,North Cow Creek Elementary,"2,309,426",250.5,"9,219",Elementary
+45,70086,Oak Run Elementary,"807,071",55.9,"14,430",Elementary
+45,70094,Pacheco Union Elementary,"6,701,821",597.8,"11,211",Elementary
+45,70110,Redding Elementary,"31,869,343","2,835.2","11,241",Elementary
+45,70128,Shasta Union Elementary,"1,472,549",145.8,"10,102",Elementary
+45,70136,Shasta Union High,"52,321,221","4,137.0","12,647",High
+45,70169,Whitmore Union Elementary,"647,539",29.5,"21,973",Elementary
+45,73700,Mountain Union Elementary,"1,097,154",59.3,"18,492",Elementary
+45,75267,Gateway Unified,"28,826,850","2,151.5","13,399",Unified
+46,70177,Sierra-Plumas Joint Unified,"4,885,072",362.6,"13,472",Unified
+47,70185,Big Springs Union Elementary,"1,608,849",167.8,"9,587",Elementary
+47,70193,Bogus Elementary,"203,400",19.2,"10,616",Elementary
+47,70201,Butteville Union Elementary,"1,894,239",204.4,"9,267",Elementary
+47,70227,Delphic Elementary,"539,494",55.9,"9,651",Elementary
+47,70243,Dunsmuir Elementary,"1,125,670",83.7,"13,449",Elementary
+47,70250,Dunsmuir Joint Union High,"1,711,030",58.8,"29,089",High
+47,70292,Forks of Salmon Elementary,"251,362",8.4,"29,924",Elementary
+47,70318,Gazelle Union Elementary,"451,098",27.9,"16,163",Elementary
+47,70326,Grenada Elementary,"1,812,298",188.9,"9,594",Elementary
+47,70334,Happy Camp Union Elementary,"1,312,364",98.2,"13,360",Elementary
+47,70359,Hornbrook Elementary,"790,044",51.8,"15,249",Elementary
+47,70367,Junction Elementary,"513,758",19.6,"26,199",Elementary
+47,70375,Klamath River Union Elementary,"306,484",18.7,"16,407",Elementary
+47,70383,Little Shasta Elementary,"206,423",11.0,"18,851",Elementary
+47,70409,McCloud Union Elementary,"732,536",57.3,"12,775",Elementary
+47,70417,Montague Elementary,"1,768,030",157.9,"11,194",Elementary
+47,70425,Mt. Shasta Union Elementary,"5,321,287",551.0,"9,658",Elementary
+47,70458,Seiad Elementary,"447,674",17.8,"25,136",Elementary
+47,70466,Siskiyou Union High,"8,424,162",508.8,"16,558",High
+47,70482,Weed Union Elementary,"2,892,375",254.3,"11,372",Elementary
+47,70490,Willow Creek Elementary,"512,589",37.5,"13,687",Elementary
+47,70508,Yreka Union Elementary,"8,971,440",909.6,"9,863",Elementary
+47,70516,Yreka Union High,"8,314,201",573.5,"14,497",High
+47,73684,Butte Valley Unified,"3,786,866",287.9,"13,155",Unified
+47,76455,Scott Valley Unified,"8,244,842",621.7,"13,262",Unified
+48,70524,Benicia Unified,"45,425,467","4,637.3","9,796",Unified
+48,70532,Dixon Unified,"32,961,635","3,116.6","10,576",Unified
+48,70540,Fairfield-Suisun Unified,"203,929,500","20,563.5","9,917",Unified
+48,70565,Travis Unified,"52,845,644","5,358.5","9,862",Unified
+48,70573,Vacaville Unified,"103,006,597","10,490.8","9,819",Unified
+48,70581,Vallejo City Unified,"142,036,730","11,717.9","12,121",Unified
+49,40246,Petaluma City Elementary/Joint Union High,"79,288,099",7081.1,"11,197",Comm Admin
+49,40253,"Santa Rosa Elementary/High, City of","172,744,687","14,127.3","12,228",Comm Admin
+49,70599,Alexander Valley Union Elementary,"2,167,877",124.6,"17,406",Elementary
+49,70607,West Sonoma County Union High,"22,649,760","1,807.2","12,533",High
+49,70615,Bellevue Union Elementary,"23,327,803","1,670.4","13,965",Elementary
+49,70623,Bennett Valley Union Elementary,"9,720,148",992.2,"9,796",Elementary
+49,70649,Cinnabar Elementary,"3,181,040",264.8,"12,013",Elementary
+49,70656,Cloverdale Unified,"15,786,474","1,363.2","11,580",Unified
+49,70672,Dunham Elementary,"1,954,422",181.2,"10,784",Elementary
+49,70680,Forestville Union Elementary,"4,613,792",320.7,"14,385",Elementary
+49,70698,Fort Ross Elementary,"585,295",18.9,"30,935",Elementary
+49,70706,Geyserville Unified,"3,779,084",230.9,"16,364",Unified
+49,70714,Gravenstein Union Elementary,"6,549,762",690.7,"9,482",Elementary
+49,70722,Guerneville Elementary,"3,743,083",268.7,"13,929",Elementary
+49,70730,Harmony Union Elementary,"4,281,012",233.6,"18,324",Elementary
+49,70763,Horicon Elementary,"1,637,260",54.8,"29,893",Elementary
+49,70789,Kenwood,"2,402,895",146.8,"16,373",Elementary
+49,70797,Liberty Elementary,"2,313,721",212.7,"10,877",Elementary
+49,70805,Mark West Union Elementary,"12,843,970","1,294.8","9,919",Elementary
+49,70813,Monte Rio Union Elementary,"1,474,148",87.2,"16,913",Elementary
+49,70821,Montgomery Elementary,"655,847",28.3,"23,191",Elementary
+49,70839,Oak Grove Union Elementary,"9,442,587",794.6,"11,883",Elementary
+49,70847,Old Adobe Union,"20,288,498","1,682.3","12,060",Elementary
+49,70870,Piner-Olivet Union Elementary,"11,951,040","1,044.6","11,441",Elementary
+49,70888,Kashia Elementary,"312,596",7.2,"43,659",Elementary
+49,70896,Rincon Valley Union Elementary,"33,296,985","3,070.4","10,845",Elementary
+49,70904,Roseland,"27,756,947","1,463.7","18,963",Elementary
+49,70938,Sebastopol Union Elementary,"6,369,813",503.8,"12,644",Elementary
+49,70953,Sonoma Valley Unified,"51,873,293","3,854.7","13,457",Unified
+49,70961,Twin Hills Union Elementary,"7,250,654",705.9,"10,272",Elementary
+49,70979,Two Rock Union,"2,006,804",155.1,"12,936",Elementary
+49,70995,Waugh Elementary,"8,134,076",874.2,"9,305",Elementary
+49,71001,West Side Union Elementary,"1,799,986",170.1,"10,583",Elementary
+49,71019,Wilmar Union Elementary,"2,252,786",227.0,"9,926",Elementary
+49,71035,Wright Elementary,"17,943,465","1,509.5","11,887",Elementary
+49,73882,Cotati-Rohnert Park Unified,"62,051,084","5,544.4","11,192",Unified
+49,75358,Windsor Unified,"41,384,793","3,844.6","10,764",Unified
+49,75390,Healdsburg Unified,"22,891,294","1,517.4","15,086",Unified
+50,40717,Modesto City Schools,"332,053,378","28,648.4","11,591",Comm Admin
+50,71043,Ceres Unified,"139,491,584","12,788.1","10,908",Unified
+50,71050,Chatom Union,"6,010,473",578.5,"10,391",Elementary
+50,71068,Denair Unified,"13,846,554","1,268.3","10,918",Unified
+50,71076,Empire Union Elementary,"26,653,642","2,838.1","9,392",Elementary
+50,71084,Gratton Elementary,"1,694,193",135.9,"12,465",Elementary
+50,71092,Hart-Ransom Union Elementary,"6,852,207",798.4,"8,582",Elementary
+50,71100,Hickman Community Charter,"9,611,457","1,044.8","9,199",Elementary
+50,71134,Keyes Union,"8,183,462",739.9,"11,060",Elementary
+50,71142,Knights Ferry Elementary,"984,219",115.0,"8,559",Elementary
+50,71209,Paradise Elementary,"1,944,517",194.7,"9,987",Elementary
+50,71217,Patterson Joint Unified,"60,835,743","5,727.0","10,623",Unified
+50,71233,Roberts Ferry Union Elementary,"1,395,599",126.9,"10,994",Elementary
+50,71266,Salida Union Elementary,"22,500,087","2,318.4","9,705",Elementary
+50,71274,Shiloh Elementary,"1,357,711",145.6,"9,324",Elementary
+50,71282,Stanislaus Union Elementary,"32,103,374","3,327.1","9,649",Elementary
+50,71290,Sylvan Union Elementary,"74,522,033","7,758.1","9,606",Elementary
+50,71324,Valley Home Joint Elementary,"1,530,298",169.7,"9,017",Elementary
+50,73601,Newman-Crows Landing Unified,"30,731,412","2,876.7","10,683",Unified
+50,75549,Hughson Unified,"22,002,468","1,989.7","11,058",Unified
+50,75556,Riverbank Unified,"29,708,798","2,190.1","13,565",Unified
+50,75564,Oakdale Joint Unified,"49,867,970","4,943.9","10,087",Unified
+50,75572,Waterford Unified,"20,339,726","1,712.8","11,875",Unified
+50,75739,Turlock Unified,"136,502,999","13,352.7","10,223",Unified
+51,71357,Brittan Elementary,"4,214,856",438.9,"9,603",Elementary
+51,71365,Browns Elementary,"1,453,315",148.9,"9,758",Elementary
+51,71373,East Nicolaus Joint Union High,"3,408,698",294.4,"11,579",High
+51,71381,Franklin Elementary,"3,801,565",462.8,"8,214",Elementary
+51,71399,Live Oak Unified,"18,022,103","1,722.4","10,464",Unified
+51,71407,Marcum-Illinois Union Elementary,"2,024,133",157.4,"12,858",Elementary
+51,71415,Meridian Elementary,"988,086",77.6,"12,731",Elementary
+51,71423,Nuestro Elementary,"1,507,485",142.7,"10,564",Elementary
+51,71431,Pleasant Grove Joint Union,"1,600,274",192.6,"8,309",Elementary
+51,71449,Sutter Union High,"7,623,379",738.7,"10,320",High
+51,71456,Winship-Robbins,"1,621,342",135.5,"11,962",Elementary
+51,71464,Yuba City Unified,"126,342,981","11,678.9","10,818",Unified
+52,71472,Antelope Elementary,"7,195,077",719.6,"9,999",Elementary
+52,71498,Corning Union Elementary,"20,003,491","2,011.9","9,942",Elementary
+52,71506,Corning Union High,"11,377,046",881.1,"12,912",High
+52,71514,Elkins Elementary,"217,135",13.8,"15,712",Elementary
+52,71522,Evergreen Union,"10,171,191","1,042.7","9,755",Elementary
+52,71530,Flournoy Union Elementary,"307,964",21.8,"14,133",Elementary
+52,71548,Gerber Union Elementary,"4,599,071",397.0,"11,585",Elementary
+52,71555,Kirkwood Elementary,"900,043",101.5,"8,867",Elementary
+52,71563,Lassen View Union Elementary,"2,875,750",292.1,"9,846",Elementary
+52,71571,Los Molinos Unified,"6,861,445",547.7,"12,527",Unified
+52,71621,Red Bluff Union Elementary,"21,131,079","1,962.2","10,769",Elementary
+52,71639,Red Bluff Joint Union High,"18,855,423","1,492.2","12,636",High
+52,71647,Reeds Creek Elementary,"1,257,278",141.6,"8,882",Elementary
+52,71654,Richfield Elementary,"1,966,157",238.1,"8,256",Elementary
+53,71662,Burnt Ranch Elementary,"1,230,927",88.6,"13,893",Elementary
+53,71670,Coffee Creek Elementary,"252,342",5.0,"50,267",Elementary
+53,71696,Douglas City Elementary,"1,729,486",178.6,"9,682",Elementary
+53,71738,Junction City Elementary,"929,128",64.0,"14,529",Elementary
+53,71746,Lewiston Elementary,"936,740",57.5,"16,294",Elementary
+53,71761,Trinity Center Elementary,"256,282",11.6,"22,189",Elementary
+53,73833,Southern Trinity Joint Unified,"2,254,665",93.0,"24,236",Unified
+53,75028,Mountain Valley Unified,"4,408,852",248.1,"17,773",Unified
+53,76513,Trinity Alps Unified,"8,157,462",675.8,"12,070",Unified
+54,71795,Allensworth Elementary,"1,025,207",70.2,"14,615",Elementary
+54,71803,Alpaugh Unified,"4,609,105",315.1,"14,629",Unified
+54,71811,Alta Vista Elementary,"6,084,277",536.4,"11,344",Elementary
+54,71829,Buena Vista Elementary,"1,907,692",199.2,"9,579",Elementary
+54,71837,Burton Elementary,"46,061,508","4,512.4","10,208",Elementary
+54,71852,Columbine Elementary,"1,734,279",204.9,"8,464",Elementary
+54,71860,Cutler-Orosi Joint Unified,"42,857,303","3,990.9","10,739",Unified
+54,71894,Ducor Union Elementary,"1,634,609",165.8,"9,857",Elementary
+54,71902,Earlimart Elementary,"22,178,953","1,834.2","12,092",Elementary
+54,71944,Hope Elementary,"2,175,177",239.3,"9,088",Elementary
+54,71951,Hot Springs Elementary,"277,042",18.6,"14,919",Elementary
+54,71969,Kings River Union Elementary,"4,794,812",435.7,"11,006",Elementary
+54,71985,Liberty Elementary,"4,239,219",553.5,"7,659",Elementary
+54,71993,Lindsay Unified,"52,451,177","4,007.3","13,089",Unified
+54,72009,Monson-Sultana Joint Union Elementary,"4,596,835",428.2,"10,734",Elementary
+54,72017,Oak Valley Union Elementary,"4,802,834",544.4,"8,822",Elementary
+54,72025,Outside Creek Elementary,"901,708",108.2,"8,336",Elementary
+54,72033,Palo Verde Union Elementary,"5,292,202",525.5,"10,072",Elementary
+54,72041,Pixley Union Elementary,"12,622,883","1,063.5","11,869",Elementary
+54,72058,Pleasant View Elementary,"5,527,833",472.3,"11,703",Elementary
+54,72082,Richgrove Elementary,"9,006,843",613.5,"14,681",Elementary
+54,72090,Rockford Elementary,"3,226,222",349.2,"9,238",Elementary
+54,72108,Saucelito Elementary,"1,067,801",90.3,"11,829",Elementary
+54,72116,Sequoia Union Elementary,"3,045,889",312.2,"9,757",Elementary
+54,72132,Springville Union Elementary,"2,709,322",308.8,"8,773",Elementary
+54,72140,Stone Corral Elementary,"1,646,650",139.4,"11,816",Elementary
+54,72157,Strathmore Union Elementary,"8,055,671",771.2,"10,446",Elementary
+54,72173,Sundale Union Elementary,"6,863,082",794.9,"8,634",Elementary
+54,72181,Sunnyside Union Elementary,"4,106,450",342.3,"11,996",Elementary
+54,72199,Terra Bella Union Elementary,"9,993,337",887.7,"11,258",Elementary
+54,72207,Three Rivers Union Elementary,"1,125,923",135.0,"8,338",Elementary
+54,72215,Tipton Elementary,"5,860,213",550.4,"10,647",Elementary
+54,72223,Traver Joint Elementary,"2,557,328",198.5,"12,886",Elementary
+54,72231,Tulare City,"95,037,008","9,186.9","10,345",Elementary
+54,72249,Tulare Joint Union High,"61,680,963","5,170.7","11,929",High
+54,72256,Visalia Unified,"270,386,635","27,154.0","9,958",Unified
+54,72264,Waukena Joint Union Elementary,"2,595,676",224.5,"11,560",Elementary
+54,72298,Woodville Union Elementary,"6,113,571",413.6,"14,782",Elementary
+54,75325,Farmersville Unified,"29,529,581","2,438.3","12,111",Unified
+54,75523,Porterville Unified,"141,940,347","12,783.4","11,103",Unified
+54,75531,Dinuba Unified,"67,278,662","6,241.8","10,779",Unified
+54,76794,Woodlake Unified,"25,272,253","2,089.7","12,094",Unified
+54,76836,Exeter Unified,"29,119,412","2,697.3","10,796",Unified
+55,72306,Belleview Elementary,"1,664,036",144.4,"11,525",Elementary
+55,72348,Columbia Union,"5,137,212",504.9,"10,176",Elementary
+55,72355,Curtis Creek Elementary,"5,006,256",437.1,"11,453",Elementary
+55,72363,Jamestown Elementary,"3,718,426",312.5,"11,900",Elementary
+55,72371,Sonora Elementary,"6,350,741",697.7,"9,102",Elementary
+55,72389,Sonora Union High,"12,072,469",954.2,"12,652",High
+55,72397,Soulsbyville Elementary,"4,552,169",476.6,"9,551",Elementary
+55,72405,Summerville Elementary,"3,949,625",379.4,"10,409",Elementary
+55,72413,Summerville Union High,"6,092,665",382.3,"15,937",High
+55,72421,Twain Harte,"3,222,870",240.1,"13,423",Elementary
+55,75184,Big Oak Flat-Groveland Unified,"4,894,816",277.7,"17,626",Unified
+56,72447,Briggs Elementary,"5,278,499",529.7,"9,965",Elementary
+56,72454,Fillmore Unified,"43,152,137","3,622.4","11,913",Unified
+56,72462,Hueneme Elementary,"90,292,441","8,126.6","11,111",Elementary
+56,72470,Mesa Union Elementary,"5,542,760",588.3,"9,421",Elementary
+56,72504,Mupu Elementary,"1,382,012",148.7,"9,294",Elementary
+56,72512,Ocean View,"25,850,284","2,535.2","10,196",Elementary
+56,72520,Ojai Unified,"24,837,403","2,333.0","10,646",Unified
+56,72538,Oxnard,"188,489,051","16,183.1","11,647",Elementary
+56,72546,Oxnard Union High,"175,119,322","15,323.3","11,428",High
+56,72553,Pleasant Valley,"60,366,447","6,280.1","9,612",Elementary
+56,72561,Rio Elementary,"52,365,560","4,954.6","10,569",Elementary
+56,72579,Santa Clara Elementary,"564,807",53.1,"10,645",Elementary
+56,72603,Simi Valley Unified,"164,638,851","16,272.7","10,117",Unified
+56,72611,Somis Union,"2,743,331",246.8,"11,116",Elementary
+56,72652,Ventura Unified,"173,463,133","16,325.1","10,626",Unified
+56,73759,Conejo Valley Unified,"175,326,399","18,257.3","9,603",Unified
+56,73874,Oak Park Unified,"43,593,802","4,423.4","9,855",Unified
+56,73940,Moorpark Unified,"59,271,304","6,131.0","9,668",Unified
+56,76828,Santa Paula Unified,"63,079,081","5,238.8","12,041",Unified
+57,72678,Davis Joint Unified,"85,598,949","7,662.7","11,171",Unified
+57,72686,Esparto Unified,"11,044,127",891.3,"12,390",Unified
+57,72694,Washington Unified,"79,482,615","7,341.5","10,826",Unified
+57,72702,Winters Joint Unified,"16,967,008","1,465.7","11,576",Unified
+57,72710,Woodland Joint Unified,"103,139,014","9,227.7","11,177",Unified
+58,72728,Camptonville Elementary,"835,801",58.4,"14,317",Elementary
+58,72736,Marysville Joint Unified,"94,766,076","8,970.2","10,565",Unified
+58,72744,Plumas Lake Elementary,"11,939,671","1,232.6","9,686",Elementary
+58,72751,Wheatland,"15,131,099","1,184.7","12,772",Elementary
+58,72769,Wheatland Union High,"7,607,600",695.3,"10,941",High
